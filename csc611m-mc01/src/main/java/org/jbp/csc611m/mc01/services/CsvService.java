@@ -66,8 +66,7 @@ public class CsvService {
     }
 
     private void writeLineByLine(List<String[]> lines, String fileName) throws Exception {
-        Path path = Paths.get
-                (ClassLoader.getSystemResource(fileName).toURI());
+        Path path = Paths.get(ClassLoader.getSystemResource(fileName).toURI());
         CSVWriter writer = new CSVWriter(new FileWriter(path.toString()),
                 CSVWriter.DEFAULT_SEPARATOR , CSVWriter.NO_QUOTE_CHARACTER, CSVWriter.NO_ESCAPE_CHARACTER, CSVWriter.DEFAULT_LINE_END);
         try {
