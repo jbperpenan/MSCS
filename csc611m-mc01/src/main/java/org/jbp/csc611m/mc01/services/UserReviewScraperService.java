@@ -6,6 +6,7 @@ import org.jbp.csc611m.mc01.repositories.EmailRepository;
 import org.jbp.csc611m.mc01.repositories.UrlRepository;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -38,16 +39,19 @@ public class UserReviewScraperService {
             driver.get(url.getUrl());
 
             //AWARDS
-            //String kk = driver.findElement(By.xpath(
-                    //"//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[1]/div/ul/li/div/ul/li/span"))
-                    //.getAttribute("innerHTML");
-            //System.out.println(kk.substring(0,2));
-//*[@id="__next"]/main/div/section[1]/div/section/div/div[1]/section[1]/div/ul/li/div/ul/li/label
+            String kk = driver.findElement(By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[1]/div/ul/li/div/ul/li/span")).getAttribute("innerHTML");
+            System.out.println(kk.substring(0,2));
+
+            //*[@id="__next"]/main/div/section[1]/div/section/div/div[1]/section[1]/div/ul/li/div/ul/li/label
             //*[@id="__next"]/main/div/section[1]/div/section/div/div[1]/section[1]/div/ul/li/div/ul/li
 
-            String kk = driver.findElement(By.xpath(
-                    "//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]"))
-                    .getAttribute("innerHTML");
+            //WebElement webElement = driver.findElement(By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div/div"));
+            //WebElement webElement = driver.findElement(By.xpath("/html/body/div[2]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div/div"));
+
+            //String kk = driver.findElement(By.xpath("/html/body/div[2]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div/div")).getAttribute("innerHTML");
+
+            //*[@id="__next"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]
+            //*[@id="__next"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div
             //*[@id="__next"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]
             //*[@id="__next"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div
             //*[@id="__next"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div/div
@@ -68,8 +72,17 @@ public class UserReviewScraperService {
             //*[@id="__next"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div/div
             ///html/body/div[2]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div/div
             //System.out.println(kk.substring(0,2));
-            System.out.println(kk);
 
+            //System.out.println(kk);
+
+            //class name
+            //WebElement webElement = driver.findElement(By.className("ipc-html-content-inner-div"));
+
+            //class xpath
+            //WebElement webElement = driver.findElement(By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div/div/text()"));
+
+            //full class xpath
+            //WebElement webElement = driver.findElement(By.xpath("/html/body/div[2]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div/div/text()"));
 
             url.setStatus("SCRAPED");
             url.setWorker(Thread.currentThread().getName());

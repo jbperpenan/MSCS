@@ -4,6 +4,7 @@ import org.jbp.csc611m.mc01.entities.Url;
 import org.jbp.csc611m.mc01.services.CsvService;
 import org.jbp.csc611m.mc01.services.UserReviewScraperService;
 import org.jbp.csc611m.mc01.services.ImdbUrlGeneratorService;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -50,7 +51,21 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
         List<Url> urlList = imdbUrlGeneratorService.generateImdbUrls();
         WebDriver driver = initBrowserDriverConfig();
 
-        getUserReviews(urlList, driver);
+        try {
+            System.out.println("URL to load: "+urlList.get(0).getUrl());
+            driver.get(urlList.get(0).getUrl());
+
+            String kk = driver.findElement(By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[1]/div/ul/li/div/ul/li/span"))
+                    .getAttribute("innerHTML");
+
+            System.out.println("awards: "+kk);
+
+        } catch (Exception e) {
+            //System.out.println(0);
+            e.printStackTrace();
+        }
+
+        //getUserReviews(urlList, driver);
     }
 
     private WebDriver initBrowserDriverConfig() {
@@ -75,5 +90,6 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
         while(taskExecutor.getActiveCount() !=0 && taskExecutor.getThreadPoolExecutor().getQueue().size() !=0){
             //wait for all threads to finish...
         }
+        driver.close();
     }
 }
