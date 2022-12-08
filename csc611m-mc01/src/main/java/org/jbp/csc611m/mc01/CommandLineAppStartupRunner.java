@@ -6,6 +6,7 @@ import org.jbp.csc611m.mc01.services.UserReviewScraperService;
 import org.jbp.csc611m.mc01.services.ImdbUrlGeneratorService;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.slf4j.Logger;
@@ -55,14 +56,19 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
             System.out.println("URL to load: "+urlList.get(0).getUrl());
             driver.get(urlList.get(0).getUrl());
 
-            String kk = driver.findElement(By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[1]/div/ul/li/div/ul/li/span"))
-                    .getAttribute("innerHTML");
+            WebElement webElement  = driver.findElement(By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]"));
+            //WebElement webElement  = driver..find_element_by_css_selector('div.class_name');
 
-            System.out.println("awards: "+kk);
+            //String kk = driver.findElement(By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div/div/text()"))
+              //      .getAttribute("innerHTML");
+
+            System.out.println("awards: "+webElement.getText());
 
         } catch (Exception e) {
             //System.out.println(0);
             e.printStackTrace();
+        }finally {
+            driver.close();
         }
 
         //getUserReviews(urlList, driver);
