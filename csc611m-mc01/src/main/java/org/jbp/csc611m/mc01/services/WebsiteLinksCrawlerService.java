@@ -10,10 +10,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 @Service
 public class WebsiteLinksCrawlerService {
@@ -57,7 +54,7 @@ public class WebsiteLinksCrawlerService {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        //Collections.shuffle(urls);
+        Collections.shuffle(urls);
         return urls;
     }
 }

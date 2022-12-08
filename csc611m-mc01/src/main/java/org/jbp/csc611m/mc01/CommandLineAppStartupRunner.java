@@ -95,7 +95,7 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
 
                countdownStarter--;
                if(countdownStarter == ((runtime*60)/2)){
-                   System.out.println("**** 50% of runtime, "+(countdownStarter/60)+" minutes remaining ****");
+                   System.out.println("**** 50% of runtime, "+(countdownStarter/60)+" minute(s) remaining ****");
                }
                if(countdownStarter == 60){
                    System.out.println("**** Last minute of runtime ****");
@@ -191,7 +191,7 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
         System.out.println("");
         System.out.println("Website Pages: "+ results.get(0));
         System.out.println("Scraped Emails: "+ results.get(1));
-        System.out.println("Unique Emails: "+ results.get(2));
+        //System.out.println("Unique Emails: "+ results.get(2));
         System.out.println("\n\n\n");
         System.out.println("...output csv files generated");
     }
