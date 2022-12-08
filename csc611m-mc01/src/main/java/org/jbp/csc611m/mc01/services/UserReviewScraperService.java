@@ -23,7 +23,7 @@ public class UserReviewScraperService {
     @Autowired
     private UrlRepository urlRepository;
 
-    @Async
+    //@Async
     public void getUserReviewByUrl(Url url, WebDriver driver){
 
         //logger.info("Starting: url = {} with thread {}", url.getUrl(), Thread.currentThread().getName());
@@ -31,7 +31,7 @@ public class UserReviewScraperService {
             driver.get(url.getUrl());
 
             String content  = driver.findElement(By.xpath("/html/head/meta[3]")).getAttribute("content");
-            System.out.println(content);
+            //System.out.println(content);
 
             url.setStatus("SCRAPED");
             url.setWorker(Thread.currentThread().getName());

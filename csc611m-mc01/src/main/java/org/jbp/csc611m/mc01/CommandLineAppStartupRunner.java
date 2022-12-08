@@ -52,22 +52,9 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
     public void run(String... args) throws Exception {
 
         List<Url> urlList = imdbUrlGeneratorService.generateImdbUrls();
-        WebDriver driver = initBrowserDriverConfig();
+        //WebDriver driver = initBrowserDriverConfig();
 
-        getUserReviews(urlList, driver);
-
-        /*try {
-            //System.out.println("URL to load: "+urlList.get(0).getUrl());
-            driver.get(urlList.get(0).getUrl());
-
-            String content  = driver.findElement(By.xpath("/html/head/meta[3]")).getAttribute("content");
-            System.out.println(content);
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        }finally {
-            driver.close();
-        }*/
+        getUserReviews(urlList);
     }
 
     private WebDriver initBrowserDriverConfig() {
@@ -84,7 +71,7 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
         return driver;
     }
 
-    private void getUserReviews(List<Url> urlList, WebDriver driver) throws Exception {
+    private void getUserReviews(List<Url> urlList) throws Exception {
         for(int i = 0; i< urlList.size(); i++){
             try {
                 System.setProperty("webdriver.chrome.driver","src/main/resources/chromedriver");
@@ -105,6 +92,8 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
         while(taskExecutor.getActiveCount() !=0 && taskExecutor.getThreadPoolExecutor().getQueue().size() !=0){
             //wait for all threads to finish...
         }
-        //driver.close();
+        //taskExecutor.shutdown();
+
+        csvService.writeCsvOutputs();
     }
 }

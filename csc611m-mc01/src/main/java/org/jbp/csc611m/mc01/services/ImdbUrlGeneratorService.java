@@ -45,7 +45,7 @@ public class ImdbUrlGeneratorService {
     }
 
     private List<String[]> readAllLines() throws Exception {
-        Path path = Paths.get(ClassLoader.getSystemResource("test-links.csv").toURI());
+        Path path = Paths.get(ClassLoader.getSystemResource("links.csv").toURI());
         try (Reader reader = Files.newBufferedReader(path)) {
             try (CSVReader csvReader = new CSVReader(reader)) {
                 return csvReader.readAll();

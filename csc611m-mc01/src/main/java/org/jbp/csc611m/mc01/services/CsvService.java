@@ -2,6 +2,9 @@ package org.jbp.csc611m.mc01.services;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
 import org.jbp.csc611m.mc01.entities.Crew;
 import org.jbp.csc611m.mc01.repositories.CrewRepository;
 import org.jbp.csc611m.mc01.repositories.UrlRepository;
@@ -26,13 +29,23 @@ public class CsvService {
 
     public void writeCsvOutputs() throws Exception {
         List<String[]> lines = new ArrayList<>();
+
         lines.add(new String[] { "movieId","title","genres", "director", "casts" });
+
         Iterable<Crew> i1 = crewRepository.findAll();
         List<Crew> crews = new LinkedList<>();
         i1.forEach(crews::add);
+
+        List<Movie> movies = read();
+
         for(Crew crew : crews){
-            lines.add(new String[] { crew.getDirector(), crew.getCast()});
+            for(Movie movie: movies){
+                if(crew.getMovieId() == Integer.valueOf(movie.getMovieId())){
+                    lines.add(new String[] { movie.getMovieId(), movie.getTitle(), movie.getGenre(), crew.getDirector(), crew.getCast().replace(',','|')});
+                }
+            }
         }
+
         writeLineByLine(lines, "movies-director-casts.csv");
     }
 
@@ -49,11 +62,15 @@ public class CsvService {
         }
     }
 
-    public List<String> read() throws Exception {
+    private List<Movie> read() throws Exception {
         List<String[]> urlList = readAllLines("movies.csv");
-        List<String> urls = new ArrayList<>();
+        List<Movie> urls = new ArrayList<>();
+        int ctr = 1;
         for(String[] line: urlList) {
-            urls.add(line[0]);
+            if(ctr != 1){
+                urls.add(new Movie(line[0], line[1], line[2]));
+            }
+            ctr++;
         }
 
         return urls;
@@ -66,5 +83,14 @@ public class CsvService {
                 return csvReader.readAll();
             }
         }
+    }
+
+    @Getter
+    @Setter
+    @AllArgsConstructor
+    private class Movie {
+        private String movieId;
+        private String title;
+        private String genre;
     }
 }
