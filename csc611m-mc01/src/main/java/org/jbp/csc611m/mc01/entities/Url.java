@@ -23,10 +23,12 @@ public class Url {
     private String url;
     private String worker;
     private String status;
+    private Integer movieId;
 
-    public Url(String url, String local, String status) {
+    public Url(String url, String local, String status, Integer movieId) {
         this.url = url;
         this.worker = local;
         this.status = status;
+        this.movieId = movieId;
     }
 }

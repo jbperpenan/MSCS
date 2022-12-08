@@ -9,6 +9,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -52,32 +54,30 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
         List<Url> urlList = imdbUrlGeneratorService.generateImdbUrls();
         WebDriver driver = initBrowserDriverConfig();
 
-        try {
-            System.out.println("URL to load: "+urlList.get(0).getUrl());
+        getUserReviews(urlList, driver);
+
+        /*try {
+            //System.out.println("URL to load: "+urlList.get(0).getUrl());
             driver.get(urlList.get(0).getUrl());
 
-            WebElement webElement  = driver.findElement(By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]"));
-            //WebElement webElement  = driver..find_element_by_css_selector('div.class_name');
-
-            //String kk = driver.findElement(By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[8]/div[2]/div[1]/div[3]/div/div/text()"))
-              //      .getAttribute("innerHTML");
-
-            System.out.println("awards: "+webElement.getText());
+            String content  = driver.findElement(By.xpath("/html/head/meta[3]")).getAttribute("content");
+            System.out.println(content);
 
         } catch (Exception e) {
-            //System.out.println(0);
             e.printStackTrace();
         }finally {
             driver.close();
-        }
-
-        //getUserReviews(urlList, driver);
+        }*/
     }
 
     private WebDriver initBrowserDriverConfig() {
         System.setProperty("webdriver.chrome.driver","src/main/resources/chromedriver");
         ChromeOptions options = new ChromeOptions();
-        options.addArguments("--headless");
+        //options.addArguments("--headless");
+        //options.addArguments("--disable-blink-features=AutomationControlled");
+        //options.addArguments("--disable-extensions");
+        //options.addArguments("useAutomationExtension", "FALSE");
+        //options.addArguments("excludeSwitches", "enable-automation");
         options.setImplicitWaitTimeout(Duration.ofSeconds(10));
         WebDriver driver = new ChromeDriver(options);
 
@@ -87,7 +87,16 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
     private void getUserReviews(List<Url> urlList, WebDriver driver) throws Exception {
         for(int i = 0; i< urlList.size(); i++){
             try {
-                userReviewScraperService.getUserReviewByUrl(urlList.get(i), driver);
+                System.setProperty("webdriver.chrome.driver","src/main/resources/chromedriver");
+                ChromeOptions options = new ChromeOptions();
+                //options.addArguments("--headless");
+                //options.addArguments("--disable-blink-features=AutomationControlled");
+                //options.addArguments("--disable-extensions");
+                //options.addArguments("useAutomationExtension", "FALSE");
+                //options.addArguments("excludeSwitches", "enable-automation");
+                options.setImplicitWaitTimeout(Duration.ofSeconds(10));
+                //WebDriver driver = new ChromeDriver(options);
+                userReviewScraperService.getUserReviewByUrl(urlList.get(i), new ChromeDriver(options));
             }catch (Exception e) {
                 e.printStackTrace();
             }
@@ -96,6 +105,6 @@ public class CommandLineAppStartupRunner implements CommandLineRunner {
         while(taskExecutor.getActiveCount() !=0 && taskExecutor.getThreadPoolExecutor().getQueue().size() !=0){
             //wait for all threads to finish...
         }
-        driver.close();
+        //driver.close();
     }
 }

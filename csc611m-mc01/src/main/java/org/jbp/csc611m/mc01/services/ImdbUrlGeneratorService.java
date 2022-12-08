@@ -36,7 +36,7 @@ public class ImdbUrlGeneratorService {
                 continue;
             }
 
-            urls.add(new Url(imdbBaseUrl+str[1]+"/",null,"PENDING"));
+            urls.add(new Url(imdbBaseUrl+str[1]+"/",null,"PENDING",Integer.valueOf(str[0])));
         }
 
         urlRepository.saveAll(urls);
@@ -45,8 +45,7 @@ public class ImdbUrlGeneratorService {
     }
 
     private List<String[]> readAllLines() throws Exception {
-        Path path = Paths.get
-                (ClassLoader.getSystemResource("test-links.csv").toURI());
+        Path path = Paths.get(ClassLoader.getSystemResource("test-links.csv").toURI());
         try (Reader reader = Files.newBufferedReader(path)) {
             try (CSVReader csvReader = new CSVReader(reader)) {
                 return csvReader.readAll();

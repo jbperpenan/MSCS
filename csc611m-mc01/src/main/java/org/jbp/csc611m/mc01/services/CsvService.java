@@ -2,8 +2,8 @@ package org.jbp.csc611m.mc01.services;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
-import org.jbp.csc611m.mc01.entities.Email;
-import org.jbp.csc611m.mc01.repositories.EmailRepository;
+import org.jbp.csc611m.mc01.entities.Crew;
+import org.jbp.csc611m.mc01.repositories.CrewRepository;
 import org.jbp.csc611m.mc01.repositories.UrlRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -19,50 +19,21 @@ import java.util.*;
 public class CsvService {
 
     @Autowired
-    private EmailRepository emailRepository;
+    private CrewRepository crewRepository;
 
     @Autowired
     private UrlRepository urlRepository;
 
-    public List<Long> writeCsvOutputs() throws Exception {
-        List<Long> counts = new ArrayList<>();
-
-        //write stats csv
+    public void writeCsvOutputs() throws Exception {
         List<String[]> lines = new ArrayList<>();
-        lines.add(new String[] { "page_count", "eadd_count" });
-        Long emailCount = emailRepository.count();
-        Long pageCount = urlRepository.countLongByStatus("SCRAPED");
-        lines.add(new String[] { String.valueOf(pageCount), String.valueOf(emailCount)});
-        writeLineByLine(lines, "dlsu-stats.csv");
-        lines.clear();
-        counts.add(pageCount);
-        counts.add(emailCount);
-
-        //write all email csv
-        lines.add(new String[] { "associated_name", "email" });
-        Iterable<Email> i1 = emailRepository.findAll();
-        List<Email> emails = new LinkedList<>();
-        i1.forEach(emails::add);
-        Collections.shuffle(emails);
-        for(Email email: emails){
-            lines.add(new String[] { email.getName(), email.getEmail()});
+        lines.add(new String[] { "movieId","title","genres", "director", "casts" });
+        Iterable<Crew> i1 = crewRepository.findAll();
+        List<Crew> crews = new LinkedList<>();
+        i1.forEach(crews::add);
+        for(Crew crew : crews){
+            lines.add(new String[] { crew.getDirector(), crew.getCast()});
         }
-        writeLineByLine(lines, "dlsu-emails.csv");
-        lines.clear();
-
-        //write unique email csv
-        lines.add(new String[] { "associated_name", "email" });
-        Map<String, Email> eadd = new HashMap<>();
-        for(Email email: emails){
-            if (eadd.get(email.getEmail()) == null){
-                lines.add(new String[] { email.getName(), email.getEmail()});
-                eadd.put(email.getEmail(), email);
-            }
-        }
-        writeLineByLine(lines, "dist-dlsu-emails.csv");
-        counts.add(Long.valueOf(eadd.size()));
-
-        return counts;
+        writeLineByLine(lines, "movies-director-casts.csv");
     }
 
     private void writeLineByLine(List<String[]> lines, String fileName) throws Exception {
@@ -78,8 +49,8 @@ public class CsvService {
         }
     }
 
-    public List<String> getUrlsFromCsv() throws Exception {
-        List<String[]> urlList = readAllLines("dlsu-urls.csv");
+    public List<String> read() throws Exception {
+        List<String[]> urlList = readAllLines("movies.csv");
         List<String> urls = new ArrayList<>();
         for(String[] line: urlList) {
             urls.add(line[0]);
