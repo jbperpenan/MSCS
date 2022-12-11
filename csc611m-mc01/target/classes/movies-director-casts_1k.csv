@@ -1,0 +1,1001 @@
+movieId,title,genres,director,casts
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,John Lasseter,Tom Hanks| Tim Allen| Don Rickles| Jim Varney
+2,Jumanji (1995),Adventure|Children|Fantasy,Joe Johnston,Robin Williams| Jonathan Hyde| Kirsten Dunst| Bradley Pierce
+3,Grumpier Old Men (1995),Comedy|Romance,Howard Deutch,Walter Matthau| Jack Lemmon| Sophia Loren| Ann-Margret
+4,Waiting to Exhale (1995),Comedy|Drama|Romance,Forest Whitaker,Whitney Houston| Angela Bassett| Loretta Devine| Lela Rochon
+5,Father of the Bride Part II (1995),Comedy,Charles Shyer,Steve Martin| Diane Keaton| Martin Short| Kimberly Williams-Paisley
+6,Heat (1995),Action|Crime|Thriller,Michael Mann,Al Pacino| Robert De Niro| Val Kilmer| Jon Voight
+7,Sabrina (1995),Comedy|Romance,Sydney Pollack,Harrison Ford| Julia Ormond| Greg Kinnear| Nancy Marchand
+8,Tom and Huck (1995),Adventure|Children,Peter Hewitt,Jonathan Taylor Thomas| Brad Renfro| Eric Schweig| Charles Rocket
+9,Sudden Death (1995),Action,Peter Hyams,Jean-Claude Van Damme| Powers Boothe| Raymond J
+10,GoldenEye (1995),Action|Adventure|Thriller,Martin Campbell,Pierce Brosnan| Sean Bean| Izabella Scorupco| Famke Janssen
+11,American President, The (1995),Rob Reiner,Michael Douglas| Annette Bening| Martin Sheen| Michael J
+12,Dracula: Dead and Loving It (1995),Comedy|Horror,Mel Brooks,Leslie Nielsen| Peter MacNicol| Steven Weber| Amy Yasbeck
+13,Balto (1995),Adventure|Animation|Children,Simon Wells,Kevin Bacon| Bob Hoskins| Bridget Fonda| Jim Cummings
+14,Nixon (1995),Drama,Oliver Stone,Anthony Hopkins| Joan Allen| Powers Boothe| Ed Harris
+15,Cutthroat Island (1995),Action|Adventure|Romance,Renny Harlin,Geena Davis| Matthew Modine| Frank Langella| Maury Chaykin
+16,Casino (1995),Crime|Drama,Martin Scorsese,Robert De Niro| Sharon Stone| Joe Pesci| James Woods
+17,Sense and Sensibility (1995),Drama|Romance,Ang Lee,James Fleet| Tom Wilkinson| Harriet Walter| Kate Winslet
+18,Four Rooms (1995),Comedy,Allison Anders| Alexandre Rockwell| Robert Rodriguez| Quentin Tarantino| Chuck Jones,Sammi Davis| Amanda De Cadenet| Valeria Golino| Madonna
+19,Ace Ventura: When Nature Calls (1995),Comedy,Steve Oedekerk,Jim Carrey| Ian McNeice| Simon Callow| Maynard Eziashi
+20,Money Train (1995),Action|Comedy|Crime|Drama|Thriller,Joseph Ruben,Wesley Snipes| Woody Harrelson| Jennifer Lopez| Robert Blake
+21,Get Shorty (1995),Comedy|Crime|Thriller,Barry Sonnenfeld,John Travolta| Gene Hackman| Rene Russo| Danny DeVito
+22,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller,Jon Amiel,Sigourney Weaver| Holly Hunter| Dermot Mulroney| William McNamara
+23,Assassins (1995),Action|Crime|Thriller,Richard Donner,Sylvester Stallone| Antonio Banderas| Julianne Moore| Anatoli Davydov
+24,Powder (1995),Drama|Sci-Fi,Victor Salva,Mary Steenburgen| Sean Patrick Flanery| Lance Henriksen| Jeff Goldblum
+25,Leaving Las Vegas (1995),Drama|Romance,Mike Figgis,Nicolas Cage| Elisabeth Shue| Julian Sands| Richard Lewis
+26,Othello (1995),Drama,Oliver Parker,Laurence Fishburne| Irène Jacob| Kenneth Branagh| Nathaniel Parker
+27,Now and Then (1995),Children|Drama,Lesli Linka Glatter,Christina Ricci| Rosie O'Donnell| Thora Birch| Melanie Griffith
+28,Persuasion (1995),Drama|Romance,Roger Michell,Amanda Root| Ciarán Hinds| Susan Fleetwood| Corin Redgrave
+29,City of Lost Children, The (Cité des enfants perdus,Marc Caro| Jean-Pierre Jeunet,Ron Perlman| Daniel Emilfork| Judith Vittet| Dominique Pinon
+30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),Crime|Drama,Yimou Zhang,Gong Li| Baotian Li| Xiaoxiao Wang| Xuejian Li
+31,Dangerous Minds (1995),Drama,John N. Smith,Michelle Pfeiffer| George Dzundza| Courtney B
+32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,Terry Gilliam,Joseph Melito| Bruce Willis| Jon Seda| Michael Chance
+34,Babe (1995),Children|Drama,Chris Noonan,Christine Cavanaugh| Miriam Margolyes| Danny Mann| Hugo Weaving
+36,Dead Man Walking (1995),Crime|Drama,Tim Robbins,Susan Sarandon| Sean Penn| Robert Prosky| Raymond J
+38,It Takes Two (1995),Children|Comedy,Andy Tennant,Kirstie Alley| Steve Guttenberg| Mary-Kate Olsen| Ashley Olsen
+39,Clueless (1995),Comedy|Romance,Amy Heckerling,Alicia Silverstone| Stacey Dash| Brittany Murphy| Paul Rudd
+40,Cry, the Beloved Country (1995),Darrell Roodt,James Earl Jones| Richard Harris| Vusi Kunene| Charles S
+41,Richard III (1995),Drama|War,Richard Loncraine,Christopher Bowen| Edward Jewesbury| Ian McKellen| Bill Paterson
+42,Dead Presidents (1995),Action|Crime|Drama,Albert Hughes| Allen Hughes,Larenz Tate| Keith David| Chris Tucker| Freddy Rodríguez
+43,Restoration (1995),Drama,Michael Hoffman,Robert Downey Jr
+44,Mortal Kombat (1995),Action|Adventure|Fantasy,Paul W.S. Anderson,Christopher Lambert| Robin Shou| Linden Ashby| Cary-Hiroyuki Tagawa
+45,To Die For (1995),Comedy|Drama|Thriller,Gus Van Sant,Nicole Kidman| Matt Dillon| Joaquin Phoenix| Casey Affleck
+46,How to Make an American Quilt (1995),Drama|Romance,Jocelyn Moorhouse,Kaelynn Craddick| Sara Craddick| Kate Capshaw| Adam Baldwin
+47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,David Fincher,Morgan Freeman| Andrew Kevin Walker| Daniel Zacapa| Brad Pitt
+48,Pocahontas (1995),Animation|Children|Drama|Musical|Romance,Mike Gabriel| Eric Goldberg,Joe Baker| Christian Bale| Irene Bedard| Billy Connolly
+49,When Night Is Falling (1995),Drama|Romance,Patricia Rozema,Pascale Bussières| Rachael Crawford| Henry Czerny| David Fox
+50,Usual Suspects, The (1995),Bryan Singer,Stephen Baldwin| Gabriel Byrne| Benicio Del Toro| Kevin Pollak
+52,Mighty Aphrodite (1995),Comedy|Drama|Romance,Woody Allen,Pamela Blair| Rene Ceballos| Elie Chaib| George De La Pena
+53,Lamerica (1994),Adventure|Drama,Gianni Amelio,Enrico Lo Verso| Michele Placido| Piro Milkani| Carmelo Di Mazzarelli
+54,Big Green, The (1995),Holly Goldberg Sloan,Steve Guttenberg| Olivia d'Abo| Jay O
+55,Georgia (1995),Drama,Ulu Grosbard,Jennifer Jason Leigh| Mare Winningham| Ted Levine| Max Perlich
+57,Home for the Holidays (1995),Drama,Jodie Foster,Holly Hunter| Robert Downey Jr
+58,Postman, The (Postino,Michael Radford| Massimo Troisi,Philippe Noiret| Massimo Troisi| Maria Grazia Cucinotta| Renato Scarpa
+60,Indian in the Cupboard, The (1995),Frank Oz,Hal Scardino| Litefoot| Lindsay Crouse| Richard Jenkins
+61,Eye for an Eye (1996),Drama|Thriller,John Schlesinger,Sally Field| Ed Harris| Olivia Burnette| Alexandra Kyle
+62,Mr. Holland's Opus (1995),Drama,Stephen Herek,Richard Dreyfuss| Glenne Headly| Jay Thomas| Olympia Dukakis
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),Comedy|Crime,Paris Barclay,Shawn Wayans| Marlon Wayans| Tracey Cherelle Jones| Chris Spencer
+64,Two if by Sea (1996),Comedy|Romance,Bill Bennett,Denis Leary| Sandra Bullock| Stephen Dillane| Yaphet Kotto
+65,Bio-Dome (1996),Comedy,Jason Bloom,William Atherton| Denise Dowse| Dara Tomanovich| Kevin West
+66,Lawnmower Man 2: Beyond Cyberspace (1996),Action|Sci-Fi|Thriller,Farhad Mann,Patrick Bergin| Matt Frewer| Austin O'Brien| Ely Pouget
+68,French Twist (Gazon maudit) (1995),Comedy|Romance,Josiane Balasko,Victoria Abril| Josiane Balasko| Alain Chabat| Ticky Holgado
+69,Friday (1995),Comedy,F. Gary Gray,Ice Cube| Chris Tucker| Nia Long| Tom Lister Jr
+70,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller,Robert Rodriguez,George Clooney| Quentin Tarantino| Harvey Keitel| Juliette Lewis
+71,Fair Game (1995),Action,Andrew Sipes,William Baldwin| Cindy Crawford| Steven Berkoff| Christopher McDonald
+72,Kicking and Screaming (1995),Comedy|Drama,Noah Baumbach,Josh Hamilton| Samuel Gould| Catherine Kellner| Jonathan Baumbach
+73,Misérables, Les (1995),Claude Lelouch,Jean-Paul Belmondo| Michel Boujenah| Alessandra Martines| Salomé Lelouch
+74,Bed of Roses (1996),Drama|Romance,Michael Goldenberg,Christian Slater| Mary Stuart Masterson| Pamela Adlon| Josh Brolin
+75,Big Bully (1996),Comedy|Drama,Steve Miner,Rick Moranis| Tom Arnold| Julianne Phillips| Carol Kane
+76,Screamers (1995),Action|Sci-Fi|Thriller,Christian Duguay,Peter Weller| Roy Dupuis| Jennifer Rubin| Andy Lauer
+77,Nico Icon (1995),Documentary,Susanne Ofteringer,Nico| Tina Aumont| Christian Päffgen| Edith Boulogne
+78,Crossing Guard, The (1995),Sean Penn,Jack Nicholson| David Morse| Anjelica Huston| Robin Wright
+79,Juror, The (1996),Brian Gibson,Demi Moore| Alec Baldwin| Joseph Gordon-Levitt| James Gandolfini
+80,White Balloon, The (Badkonake sefid) (1995),Jafar Panahi,Aida Mohammadkhani| Mohsen Kafili| Fereshteh Sadre Orafaiy| Anna Borkowska
+81,Things to Do in Denver When You're Dead (1995),Crime|Drama|Romance,Gary Fleder,Andy Garcia| Christopher Lloyd| William Forsythe| Bill Nunn
+82,Antonia's Line (Antonia) (1995),Comedy|Drama,Marleen Gorris,Willeke van Ammelrooy| Els Dottermans| Dora van der Groen| Veerle van Overloop
+83,Once Upon a Time... When We Were Colored (1995),Drama|Romance,Tim Reid,Al Freeman Jr
+85,Angels and Insects (1995),Drama|Romance,Philip Haas,Mark Rylance| Kristin Scott Thomas| Patsy Kensit| Jeremy Kemp
+86,White Squall (1996),Action|Adventure|Drama,Ridley Scott,Jeff Bridges| Caroline Goodall| John Savage| Scott Wolf
+87,Dunston Checks In (1996),Children|Comedy,Ken Kwapis,Jason Alexander| Faye Dunaway| Eric Lloyd| Rupert Everett
+88,Black Sheep (1996),Comedy,Penelope Spheeris,Chris Farley| David Spade| Tim Matheson| Christine Ebersole
+89,Nick of Time (1995),Action|Thriller,John Badham,Johnny Depp| Courtney Chase| Charles S
+92,Mary Reilly (1996),Drama|Horror|Thriller,Stephen Frears,Julia Roberts| John Malkovich| George Cole| Michael Gambon
+93,Vampire in Brooklyn (1995),Comedy|Horror|Romance,Wes Craven,Eddie Murphy| Angela Bassett| Allen Payne| Kadeem Hardison
+94,Beautiful Girls (1996),Comedy|Drama|Romance,Ted Demme,Matt Dillon| Noah Emmerich| Annabeth Gish| Lauren Holly
+95,Broken Arrow (1996),Action|Adventure|Thriller,John Woo,John Travolta| Christian Slater| Samantha Mathis| Delroy Lindo
+96,In the Bleak Midwinter (1995),Comedy|Drama,Kenneth Branagh,Richard Briers| Hetta Charnley| Joan Collins| Nicholas Farrell
+97,Hate (Haine, La) (1995),Mathieu Kassovitz,Vincent Cassel| Hubert Koundé| Saïd Taghmaoui| Abdel Ahmed Ghili
+99,Heidi Fleiss: Hollywood Madam (1995),Documentary,Nick Broomfield,Nick Broomfield| Nina Xining Zuo| Madam Alex| Corinne Bohrer
+100,City Hall (1996),Drama|Thriller,Harold Becker,Al Pacino| John Cusack| Bridget Fonda| Danny Aiello
+101,Bottle Rocket (1996),Adventure|Comedy|Crime|Romance,Wes Anderson,Luke Wilson| Owen Wilson| Ned Dowd| Shea Fowler
+102,Mr. Wrong (1996),Comedy,Nick Castle,Ellen DeGeneres| Bill Pullman| Joan Cusack| Dean Stockwell
+103,Unforgettable (1996),Mystery|Sci-Fi|Thriller,John Dahl,Ray Liotta| Linda Fiorentino| Peter Coyote| Christopher McDonald
+104,Happy Gilmore (1996),Comedy,Dennis Dugan,Adam Sandler| Christopher McDonald| Julie Bowen| Frances Bay
+105,Bridges of Madison County, The (1995),Clint Eastwood,Clint Eastwood| Meryl Streep| Annie Corley| Victor Slezak
+106,Nobody Loves Me (Keiner liebt mich) (1994),Comedy|Drama,Doris Dörrie,Maria Schrader| Pierre Sanoussi-Bliss| Michael von Au| Elisabeth Trissenaar
+107,Muppet Treasure Island (1996),Adventure|Children|Comedy|Musical,Brian Henson| David Lane,Tim Curry| Billy Connolly| Jennifer Saunders| Kevin Bishop
+108,Catwalk (1996),Documentary,Robert Leacock,Christy Turlington| Azzedine Alaïa| Giorgio Armani| Nadja Auermann
+110,Braveheart (1995),Action|Drama|War,Mel Gibson,James Robinson| Sean Lawlor| Sandy Nelson| James Cosmo
+111,Taxi Driver (1976),Crime|Drama|Thriller,Martin Scorsese,Diahnne Abbott| Frank Adu| Victor Argo| Gino Ardito
+112,Rumble in the Bronx (Hont faan kui) (1995),Action|Adventure|Comedy|Crime,Stanley Tong,Jackie Chan| Anita Mui| Françoise Yip| Bill Tung
+113,Before and After (1996),Drama|Mystery,Barbet Schroeder,Meryl Streep| Liam Neeson| Edward Furlong| Julia Weldon
+116,Anne Frank Remembered (1995),Documentary,Jon Blair,Isa Baschwitz| Mary Bos| Kenneth Branagh| Janny Brandes-Brilslijper
+117,Young Poisoner's Handbook, The (1995),Benjamin Ross,Tobias Arnold| Ruth Sheen| Roger Lloyd Pack| Hugh O'Conor
+118,If Lucy Fell (1996),Comedy|Romance,Eric Schaeffer,Sarah Jessica Parker| Eric Schaeffer| Ben Stiller| Elle Macpherson
+119,Steal Big, Steal Little (1995),Andrew Davis,Andy Garcia| Alan Arkin| Rachel Ticotin| Joe Pantoliano
+121,Boys of St. Vincent, The (1992),John N. Smith,Henry Czerny| Johnny Morina| Brian Dooley| Philip Dinn
+122,Boomerang (1992),Comedy|Romance,Reginald Hudlin,Eddie Murphy| Robin Givens| Halle Berry| David Alan Grier
+123,Chungking Express (Chung Hing sam lam) (1994),Drama|Mystery|Romance,Kar-Wai Wong,Brigitte Lin| Tony Chiu-Wai Leung| Faye Wong| Takeshi Kaneshiro
+125,Flirting With Disaster (1996),Comedy,David O. Russell,Ben Stiller| Patricia Arquette| Téa Leoni| Mary Tyler Moore
+126,NeverEnding Story III, The (1994),Peter MacDonald,Jason James Richter| Melody Kay| Jack Black| Carole Finn
+128,Jupiter's Wife (1994),Documentary,Michel Negroponte,Maggie Cogan| Katina Pendleton
+129,Pie in the Sky (1996),Comedy|Romance,Bryan Gordon,Josh Charles| Anne Heche| John Goodman| Christine Lahti
+132,Jade (1995),Thriller,William Friedkin,David Caruso| Linda Fiorentino| Chazz Palminteri| Richard Crenna
+135,Down Periscope (1996),Comedy,David S. Ward,Kelsey Grammer| Lauren Holly| Rob Schneider| Harry Dean Stanton
+137,Man of the Year (1995),Documentary,Dirk Shafer,Vivian Paxton| Claudette Sutherland| Michael Ornstein| Cal Bartlett
+140,Up Close and Personal (1996),Drama|Romance,Jon Avnet,Robert Redford| Michelle Pfeiffer| Stockard Channing| Joe Mantegna
+141,Birdcage, The (1996),Mike Nichols,Robin Williams| Gene Hackman| Nathan Lane| Dianne Wiest
+144,Brothers McMullen, The (1995),Edward Burns,Shari Albert| Maxine Bahns| Catharine Bolz| Connie Britton
+145,Bad Boys (1995),Action|Comedy|Crime|Drama|Thriller,Michael Bay,Lisa Boyle| Michael Taliferro| Emmanuel Xuereb| Tchéky Karyo
+146,Amazing Panda Adventure, The (1995),Christopher Cain,Stephen Lang| Ryan Slater| Yi Ding| Wang Fei
+147,Basketball Diaries, The (1995),Scott Kalvert,Leonardo DiCaprio| Lorraine Bracco| Marilyn Sokol| James Madio
+148,Awfully Big Adventure, An (1995),Mike Newell,Alan Rickman| Hugh Grant| Georgina Cates| Alun Armstrong
+149,Amateur (1994),Crime|Drama|Thriller,Hal Hartley,Isabelle Huppert| Martin Donovan| Elina Löwensohn| Damian Young
+150,Apollo 13 (1995),Adventure|Drama|IMAX,Ron Howard,Tom Hanks| Bill Paxton| Kevin Bacon| Gary Sinise
+151,Rob Roy (1995),Action|Drama|Romance|War,Michael Caton-Jones,Liam Neeson| Jessica Lange| John Hurt| Tim Roth
+152,Addiction, The (1995),Abel Ferrara,Lili Taylor| Christopher Walken| Annabella Sciorra| Edie Falco
+153,Batman Forever (1995),Action|Adventure|Comedy|Crime,Joel Schumacher,Val Kilmer| Tommy Lee Jones| Jim Carrey| Nicole Kidman
+154,Beauty of the Day (Belle de jour) (1967),Drama,Luis Buñuel,Catherine Deneuve| Jean Sorel| Michel Piccoli| Geneviève Page
+155,Beyond Rangoon (1995),Adventure|Drama|War,John Boorman,Patricia Arquette| U Aung Ko| Frances McDormand| Spalding Gray
+156,Blue in the Face (1995),Comedy|Drama,Paul Auster| Wayne Wang| Harvey Wang,Lou Reed| Michael J
+157,Canadian Bacon (1995),Comedy|War,Michael Moore,John Candy| Alan Alda| Rhea Perlman| Kevin Pollak
+158,Casper (1995),Adventure|Children,Brad Silberling,Chauncey Leopardi| Spencer Vrooman| Malachi Pearson| Cathy Moriarty
+159,Clockers (1995),Crime|Drama|Mystery,Spike Lee,Harvey Keitel| John Turturro| Delroy Lindo| Mekhi Phifer
+160,Congo (1995),Action|Adventure|Mystery|Sci-Fi,Frank Marshall,Laura Linney| Dylan Walsh| Ernie Hudson| Tim Curry
+161,Crimson Tide (1995),Drama|Thriller|War,Tony Scott,Denzel Washington| Gene Hackman| Matt Craven| George Dzundza
+162,Crumb (1994),Documentary,Terry Zwigoff,Robert Crumb| Aline Kominsky-Crumb| Charles Crumb| Maxon Crumb
+163,Desperado (1995),Action|Romance|Western,Robert Rodriguez,Antonio Banderas| Salma Hayek| Joaquim de Almeida| Cheech Marin
+164,Devil in a Blue Dress (1995),Crime|Film-Noir|Mystery|Thriller,Carl Franklin,Denzel Washington| Tom Sizemore| Jennifer Beals| Don Cheadle
+165,Die Hard: With a Vengeance (1995),Action|Crime|Thriller,John McTiernan,Bruce Willis| Jeremy Irons| Samuel L
+166,Doom Generation, The (1995),Gregg Araki,James Duval| Rose McGowan| Johnathon Schaech| Cress Williams
+168,First Knight (1995),Action|Drama|Romance,Jerry Zucker,Sean Connery| Richard Gere| Julia Ormond| Ben Cross
+169,Free Willy 2: The Adventure Home (1995),Adventure|Children|Drama,Dwight H. Little,Jason James Richter| Francis Capra| Mary Kate Schellhardt| August Schellenberg
+170,Hackers (1995),Action|Adventure|Crime|Thriller,Iain Softley,Jonny Lee Miller| Angelina Jolie| Jesse Bradford| Matthew Lillard
+171,Jeffrey (1995),Comedy|Drama,Christopher Ashley,Steven Weber| Peter Jacobson| Tom Cayler| David Thornton
+172,Johnny Mnemonic (1995),Action|Sci-Fi|Thriller,Robert Longo,Keanu Reeves| Dina Meyer| Ice-T| Takeshi Kitano
+173,Judge Dredd (1995),Action|Crime|Sci-Fi,Danny Cannon,Sylvester Stallone| Armand Assante| Rob Schneider| Jürgen Prochnow
+174,Jury Duty (1995),Comedy,John Fortenberry,Pauly Shore| Tia Carrere| Stanley Tucci| Brian Doyle-Murray
+175,Kids (1995),Drama,Larry Clark,Leo Fitzpatrick| Sarah Henderson| Justin Pierce| Joseph Chan
+176,Living in Oblivion (1995),Comedy,Tom DiCillo,Steve Buscemi| Catherine Keener| Dermot Mulroney| Danielle von Zerneck
+177,Lord of Illusions (1995),Horror,Clive Barker,J
+178,Love & Human Remains (1993),Comedy|Drama,Denys Arcand,Thomas Gibson| Ruth Marshall| Cameron Bancroft| Mia Kirshner
+179,Mad Love (1995),Drama|Romance,Antonia Bird,Chris O'Donnell| Drew Barrymore| Matthew Lillard| Richard Chaim
+180,Mallrats (1995),Comedy|Romance,Kevin Smith,Shannen Doherty| Jeremy London| Jason Lee| Claire Forlani
+181,Mighty Morphin Power Rangers: The Movie (1995),Action|Children,Bryan Spicer,Karan Ashley| Johnny Yong Bosch| Steve Cardenas| Jason David Frank
+183,Mute Witness (1994),Comedy|Horror|Thriller,Anthony Waller,Marina Zudina| Fay Ripley| Evan Richards| Oleg Yankovskiy
+184,Nadja (1994),Drama,Michael Almereyda,Elina Löwensohn| Nic Ratner| Karl Geary| Peter Fonda
+185,Net, The (1995),Irwin Winkler,Sandra Bullock| Jeremy Northam| Dennis Miller| Diane Baker
+186,Nine Months (1995),Comedy|Romance,Chris Columbus,Hugh Grant| Julianne Moore| Tom Arnold| Joan Cusack
+187,Party Girl (1995),Comedy,Daisy von Scherler Mayer,The Lady Bunny| Lum Chang Pang| Parker Posey| Anthony DeSando
+188,Prophecy, The (1995),Gregory Widen,Christopher Walken| Elias Koteas| Virginia Madsen| Eric Stoltz
+189,Reckless (1995),Comedy|Fantasy,Norman René,Mia Farrow| Tony Goldwyn| Juana Barrios| Mike Heibeck
+190,Safe (1995),Thriller,Todd Haynes,Julianne Moore| Xander Berkeley| Dean Norris| Julie Burgess
+191,Scarlet Letter, The (1995),Roland Joffé,Demi Moore| Gary Oldman| Robert Duvall| Lisa Andoh
+193,Showgirls (1995),Drama,Paul Verhoeven,Elizabeth Berkley| Kyle MacLachlan| Gina Gershon| Glenn Plummer
+194,Smoke (1995),Comedy|Drama,Wayne Wang,Giancarlo Esposito| José Zúñiga| Stephen Gevedon| Harvey Keitel
+195,Something to Talk About (1995),Comedy|Drama|Romance,Lasse Hallström,Julia Roberts| Dennis Quaid| Robert Duvall| Gena Rowlands
+196,Species (1995),Horror|Sci-Fi,Roger Donaldson,Ben Kingsley| Michael Madsen| Alfred Molina| Forest Whitaker
+198,Strange Days (1995),Action|Crime|Drama|Mystery|Sci-Fi|Thriller,Kathryn Bigelow,Ralph Fiennes| Angela Bassett| Juliette Lewis| Tom Sizemore
+199,Umbrellas of Cherbourg, The (Parapluies de Cherbourg,Jacques Demy,Catherine Deneuve| Nino Castelnuovo| Anne Vernon| Marc Michel
+201,Three Wishes (1995),Drama|Fantasy,Martha Coolidge,Patrick Swayze| Mary Elizabeth Mastrantonio| Joseph Mazzello| Seth Mumy
+202,Total Eclipse (1995),Drama|Romance,Agnieszka Holland,Leonardo DiCaprio| David Thewlis| Romane Bohringer| Dominique Blanc
+203,To Wong Foo, Thanks for Everything! Julie Newmar (1995),Beeban Kidron,Wesley Snipes| Patrick Swayze| John Leguizamo| Stockard Channing
+204,Under Siege 2: Dark Territory (1995),Action,Geoff Murphy,Steven Seagal| Eric Bogosian| Everett McGill| Katherine Heigl
+205,Unstrung Heroes (1995),Comedy|Drama,Diane Keaton,Andie MacDowell| John Turturro| Michael Richards| Maury Chaykin
+206,Unzipped (1995),Documentary,Douglas Keeve,Roseanne Barr| Sandra Bernhard| Robert Best| Natane Boudreau
+207,Walk in the Clouds, A (1995),Alfonso Arau,Keanu Reeves| Aitana Sánchez-Gijón| Anthony Quinn| Giancarlo Giannini
+208,Waterworld (1995),Action|Adventure|Sci-Fi,Kevin Reynolds,Kevin Costner| Chaim Jeraffi| Rick Aviles| R
+209,White Man's Burden (1995),Drama,Desmond Nakano,John Travolta| Harry Belafonte| Kelly Lynch| Margaret Avery
+210,Wild Bill (1995),Western,Walter Hill,Jeff Bridges| Ellen Barkin| John Hurt| Diane Lane
+211,Browning Version, The (1994),Mike Figgis,Albert Finney| Greta Scacchi| Matthew Modine| Julian Sands
+212,Bushwhacked (1995),Adventure|Comedy|Crime|Mystery,Greg Beeman,Daniel Stern| Jon Polito| Brad Sullivan| Ann Dowd
+213,Burnt by the Sun (Utomlyonnye solntsem) (1994),Drama,Nikita Mikhalkov,Oleg Menshikov| Nikita Mikhalkov| Ingeborga Dapkunaite| Nadezhda Mikhalkova
+214,Before the Rain (Pred dozhdot) (1994),Drama|War,Milcho Manchevski,Grégoire Colin| Josif Josifovski| Boris Delcevski| Dejan Velkov
+215,Before Sunrise (1995),Drama|Romance,Richard Linklater,Ethan Hawke| Julie Delpy| Andrea Eckert| Hanno Pöschl
+216,Billy Madison (1995),Comedy,Tamra Davis,Adam Sandler| Darren McGavin| Bridgette Wilson-Sampras| Bradley Whitford
+217,Babysitter, The (1995),Guy Ferland,Alicia Silverstone| Jeremy London| J
+218,Boys on the Side (1995),Comedy|Drama,Herbert Ross,Whoopi Goldberg| Mary-Louise Parker| Drew Barrymore| Matthew McConaughey
+219,Cure, The (1995),Peter Horton,Brad Renfro| Aeryk Egan| Delphine French| Mona Powell
+220,Castle Freak (1995),Horror,Stuart Gordon,Jeffrey Combs| Barbara Crampton| Jonathan Fuller| Jessica Dollarhide
+222,Circle of Friends (1995),Drama|Romance,Pat O'Connor,Chris O'Donnell| Minnie Driver| Geraldine O'Rawe| Saffron Burrows
+223,Clerks (1994),Comedy,Kevin Smith,Brian O'Halloran| Jeff Anderson| Marilyn Ghigliotti| Lisa Spoonauer
+224,Don Juan DeMarco (1995),Comedy|Drama|Romance,Jeremy Leven,Marlon Brando| Johnny Depp| Faye Dunaway| Géraldine Pailhas
+225,Disclosure (1994),Drama|Thriller,Barry Levinson,Michael Douglas| Demi Moore| Donald Sutherland| Caroline Goodall
+227,Drop Zone (1994),Action|Thriller,John Badham,Wesley Snipes| Gary Busey| Yancy Butler| Michael Jeter
+228,Destiny Turns on the Radio (1995),Comedy,Jack Baran,Dylan McDermott| Nancy Travis| James Le Gros| Quentin Tarantino
+229,Death and the Maiden (1994),Drama|Thriller,Roman Polanski,Sigourney Weaver| Ben Kingsley| Stuart Wilson| Krystia Mova
+230,Dolores Claiborne (1995),Drama|Thriller,Taylor Hackford,Kathy Bates| Jennifer Jason Leigh| Judy Parfitt| Christopher Plummer
+231,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy,Peter Farrelly| Bobby Farrelly,Jim Carrey| Jeff Daniels| Lauren Holly| Mike Starr
+232,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance,Ang Lee,Sihung Lung| Yu-Wen Wang| Chien-Lien Wu| Kuei-Mei Yang
+233,Exotica (1994),Drama,Atom Egoyan,Bruce Greenwood| Mia Kirshner| Don McKellar| Elias Koteas
+234,Exit to Eden (1994),Comedy,Garry Marshall,Dana Delany| Paul Mercurio| Rosie O'Donnell| Dan Aykroyd
+235,Ed Wood (1994),Comedy|Drama,Tim Burton,Johnny Depp| Martin Landau| Sarah Jessica Parker| Patricia Arquette
+236,French Kiss (1995),Action|Comedy|Romance,Lawrence Kasdan,Meg Ryan| Kevin Kline| Timothy Hutton| Jean Reno
+237,Forget Paris (1995),Comedy|Romance,Billy Crystal,Billy Crystal| Debra Winger| Joe Mantegna| Cynthia Stevenson
+238,Far From Home: The Adventures of Yellow Dog (1995),Adventure|Children,Phillip Borsos,Mimi Rogers| Bruce Davison| Jesse Bradford| Tom Bower
+239,Goofy Movie, A (1995),Kevin Lima,Bill Farmer| Jason Marsden| Jim Cummings| Kellie Martin
+240,Hideaway (1995),Thriller,Brett Leonard,Jeff Goldblum| Christine Lahti| Alicia Silverstone| Jeremy Sisto
+241,Fluke (1995),Children|Drama,Carlo Carlei,Samuel L
+242,Farinelli: il castrato (1994),Drama|Musical,Gérard Corbiau,Stefano Dionisi| Enrico Lo Verso| Elsa Zylberstein| Caroline Cellier
+243,Gordy (1995),Children|Comedy|Fantasy,Mark Lewis,Doug Stone| Kristy Young| James Donadio| Deborah Hobart
+246,Hoop Dreams (1994),Documentary,Steve James,William Gates| Arthur Agee| Emma Gates| Curtis Gates
+247,Heavenly Creatures (1994),Crime|Drama,Peter Jackson,Melanie Lynskey| Kate Winslet| Sarah Peirse| Diana Kent
+248,Houseguest (1994),Comedy,Randall Miller,Sinbad| Phil Hartman| Kim Greist| Kim Murphy
+249,Immortal Beloved (1994),Drama|Romance,Bernard Rose,Gary Oldman| Jeroen Krabbé| Isabella Rossellini| Johanna ter Steege
+250,Heavyweights (Heavy Weights) (1995),Children|Comedy,Steven Brill,David Goldman| Joseph Wayne Miller| Cody Burger| Allen Covert
+251,Hunted, The (1995),J.F. Lawton,Christopher Lambert| John Lone| Joan Chen| Yoshio Harada
+252,I.Q. (1994),Comedy|Romance,Fred Schepisi,Tim Robbins| Meg Ryan| Walter Matthau| Lou Jacobi
+253,Interview with the Vampire: The Vampire Chronicles (1994),Drama|Horror,Neil Jordan,Brad Pitt| Christian Slater| Virginia McCollam| John McConnell
+254,Jefferson in Paris (1995),Drama,James Ivory,Nick Nolte| Gwyneth Paltrow| Estelle Eonnet| Thandiwe Newton
+255,Jerky Boys, The (1995),James Melkonian,John G
+256,Junior (1994),Comedy|Sci-Fi,Ivan Reitman,Arnold Schwarzenegger| Danny DeVito| Emma Thompson| Frank Langella
+257,Just Cause (1995),Mystery|Thriller,Arne Glimcher,Sean Connery| Laurence Fishburne| Kate Capshaw| Blair Underwood
+258,Kid in King Arthur's Court, A (1995),Michael Gottlieb,Thomas Ian Nicholas| Joss Ackland| Art Malik| Paloma Baeza
+259,Kiss of Death (1995),Crime|Drama|Thriller,Barbet Schroeder,David Caruso| Samuel L
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,George Lucas,Mark Hamill| Harrison Ford| Carrie Fisher| Peter Cushing
+261,Little Women (1994),Drama,Gillian Armstrong,Winona Ryder| Gabriel Byrne| Trini Alvarado| Samantha Mathis
+262,Little Princess, A (1995),Alfonso Cuarón,Liesel Matthews| Eleanor Bron| Liam Cunningham| Rusty Schwimmer
+263,Ladybird Ladybird (1994),Drama,Ken Loach,Crissy Rock| Vladimir Vega| Sandie Lavelle| Mauricio Venegas
+265,Like Water for Chocolate (Como agua para chocolate) (1992),Drama|Fantasy|Romance,Alfonso Arau,Marco Leonardi| Lumi Cavazos| Regina Torné| Mario Iván Martínez
+266,Legends of the Fall (1994),Drama|Romance|War|Western,Edward Zwick,Brad Pitt| Anthony Hopkins| Aidan Quinn| Julia Ormond
+267,Major Payne (1995),Comedy,Nick Castle,Damon Wayans| Michael Ironside| Bam Bam Bigelow| Joseph Blaire
+269,My Crazy Life (Mi vida loca) (1993),Drama,Allison Anders,Angel Aviles| Seidy Lopez| Jacob Vargas| Devine
+270,Love Affair (1994),Drama|Romance,Glenn Gordon Caron,Warren Beatty| Annette Bening| Katharine Hepburn| Garry Shandling
+271,Losing Isaiah (1995),Drama,Stephen Gyllenhaal,Jessica Lange| Halle Berry| David Strathairn| Cuba Gooding Jr
+272,Madness of King George, The (1994),Nicholas Hytner,Rupert Graves| Helen Mirren| Amanda Donohoe| Charlotte Curley
+273,Mary Shelley's Frankenstein (Frankenstein) (1994),Drama|Horror|Sci-Fi,Kenneth Branagh,Robert De Niro| Kenneth Branagh| Tom Hulce| Helena Bonham Carter
+274,Man of the House (1995),Comedy,James Orr,Chevy Chase| Farrah Fawcett| Jonathan Taylor Thomas| George Wendt
+275,Mixed Nuts (1994),Comedy,Nora Ephron,Steve Martin| Madeline Kahn| Robert Klein| Anthony LaPaglia
+276,Milk Money (1994),Comedy|Romance,Richard Benjamin,Melanie Griffith| Ed Harris| Michael Patrick Carter| Malcolm McDowell
+277,Miracle on 34th Street (1994),Drama,Les Mayfield,Richard Attenborough| Elizabeth Perkins| Dylan McDermott| J
+278,Miami Rhapsody (1995),Comedy,David Frankel,Sarah Jessica Parker| Gil Bellows| Antonio Banderas| Mia Farrow
+279,My Family (1995),Drama,Gregory Nava,Edward James Olmos| Rafael Cortes| Ivette Reina| Amelia Zapata
+280,Murder in the First (1995),Drama|Thriller,Marc Rocco,Christian Slater| Kevin Bacon| Gary Oldman| Embeth Davidtz
+281,Nobody's Fool (1994),Comedy|Drama|Romance,Robert Benton,Paul Newman| Jessica Tandy| Bruce Willis| Melanie Griffith
+282,Nell (1994),Drama,Michael Apted,Jodie Foster| Liam Neeson| Natasha Richardson| Richard Libertini
+283,New Jersey Drive (1995),Crime|Drama,Nick Gomez,Shar-Ron Corley| Gabriel Casseus| Saul Stein| Gwen McGee
+284,New York Cop (Nyû Yôku no koppu) (1993),Action|Crime,Tôru Murakawa,Tôru Nakamura| Chad McQueen| Mira Sorvino| Conan Lee
+285,Beyond Bedlam (1993),Drama|Horror,Vadim Jean,Craig Fairbrass| Elizabeth Hurley| Keith Allen| Anita Dobson
+287,Nina Takes a Lover (1994),Comedy|Romance,Alan Jacobs,Laura San Giacomo| Paul Rhys| Michael O'Keefe| Cristi Conaway
+288,Natural Born Killers (1994),Action|Crime|Thriller,Oliver Stone,Woody Harrelson| Juliette Lewis| Tom Sizemore| Rodney Dangerfield
+289,Only You (1994),Comedy|Romance,Norman Jewison,Marisa Tomei| Robert Downey Jr
+290,Once Were Warriors (1994),Crime|Drama,Lee Tamahori,Rena Owen| Temuera Morrison| Mamaengaroa Kerr-Bell| Julian Arahanga
+291,Poison Ivy II (1996),Drama|Thriller,Anne Goursaud,Alyssa Milano| Johnathon Schaech| Xander Berkeley| Belinda Bauer
+292,Outbreak (1995),Action|Drama|Sci-Fi|Thriller,Wolfgang Petersen,Dustin Hoffman| Rene Russo| Morgan Freeman| Kevin Spacey
+293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller,Luc Besson,Jean Reno| Gary Oldman| Natalie Portman| Danny Aiello
+294,Perez Family, The (1995),Mira Nair,Marisa Tomei| Alfred Molina| Anjelica Huston| Chazz Palminteri
+295,Pyromaniac's Love Story, A (1995),Joshua Brand,William Baldwin| John Leguizamo| Sadie Frost| Erika Eleniak
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,Quentin Tarantino,Tim Roth| Amanda Plummer| Laura Lovelace| John Travolta
+298,Pushing Hands (Tui shou) (1992),Drama,Ang Lee,Sihung Lung| Lai Wang| Bozhao Wang| Deb Snyder
+299,Priest (1994),Drama,Antonia Bird,Linus Roache| Tom Wilkinson| Robert Carlyle| Cathy Tyson
+300,Quiz Show (1994),Drama,Robert Redford,John Turturro| Rob Morrow| Ralph Fiennes| Paul Scofield
+301,Picture Bride (Bijo photo) (1994),Drama|Romance,Kayo Hatta,Yûki Kudô| Cary-Hiroyuki Tagawa| Tamlyn Tomita| Akira Takayama
+302,Queen Margot (Reine Margot, La) (1994),Patrice Chéreau,Isabelle Adjani| Daniel Auteuil| Jean-Hugues Anglade| Vincent Perez
+303,Quick and the Dead, The (1995),Sam Raimi,Sharon Stone| Gene Hackman| Russell Crowe| Leonardo DiCaprio
+304,Roommates (1995),Comedy|Drama,Peter Yates,Peter Falk| D
+305,Ready to Wear (Pret-A-Porter) (1994),Comedy,Robert Altman,Marcello Mastroianni| Sophia Loren| Jean-Pierre Cassel| Kim Basinger
+306,Three Colors: Red (Trois couleurs: Rouge) (1994),Drama,Krzysztof Kieslowski,Irène Jacob| Jean-Louis Trintignant| Frédérique Feder| Jean-Pierre Lorit
+307,Three Colors: Blue (Trois couleurs: Bleu) (1993),Drama,Krzysztof Kieslowski,Juliette Binoche| Benoît Régent| Florence Pernel| Charlotte Véry
+308,Three Colors: White (Trzy kolory: Bialy) (1994),Comedy|Drama,Krzysztof Kieslowski,Zbigniew Zamachowski| Julie Delpy| Janusz Gajos| Jerzy Stuhr
+310,Rent-a-Kid (1995),Comedy,Fred Gerber,Leslie Nielsen| Christopher Lloyd| Matt McCoy| Sherry Miller
+311,Relative Fear (1994),Horror|Thriller,George Mihalka,Darlanne Fluegel| Martin Neufeld| James Brolin| Denise Crosby
+312,Stuart Saves His Family (1995),Comedy,Harold Ramis,Al Franken| Laura San Giacomo| Vincent D'Onofrio| Shirley Knight
+313,Swan Princess, The (1994),Richard Rich,Jack Palance| Howard McGillin| Michelle Nicastro| Liz Callaway
+314,Secret of Roan Inish, The (1994),John Sayles,Jeni Courtney| Pat Slowey| Dave Duffy| Declan Hannigan
+315,Specialist, The (1994),Luis Llosa,Sylvester Stallone| Sharon Stone| James Woods| Rod Steiger
+316,Stargate (1994),Action|Adventure|Sci-Fi,Roland Emmerich,Kurt Russell| James Spader| Jaye Davidson| Viveca Lindfors
+317,Santa Clause, The (1994),John Pasquin,Tim Allen| Judge Reinhold| Wendy Crewson| Eric Lloyd
+318,Shawshank Redemption, The (1994),Frank Darabont,Tim Robbins| Morgan Freeman| Bob Gunton| William Sadler
+319,Shallow Grave (1994),Comedy|Drama|Thriller,Danny Boyle,Kerry Fox| Christopher Eccleston| Ewan McGregor| Ken Stott
+320,Suture (1993),Film-Noir|Thriller,Scott McGehee| David Siegel,Dennis Haysbert| Mel Harris| Sab Shimono| Dina Merrill
+321,Strawberry and Chocolate (Fresa y chocolate) (1993),Drama,Tomás Gutiérrez Alea| Juan Carlos Tabío,Jorge Perugorría| Vladimir Cruz| Mirta Ibarra| Francisco Gattorno
+322,Swimming with Sharks (1995),Comedy|Drama,George Huang,Kevin Spacey| Frank Whaley| Michelle Forbes| Benicio Del Toro
+324,Sum of Us, The (1994),Geoff Burton| Kevin Dowling,Jack Thompson| Russell Crowe| John Polson| Deborah Kennedy
+325,National Lampoon's Senior Trip (1995),Comedy,Kelly Makin,Matt Frewer| Valerie Mahaffey| Lawrence Dane| Tommy Chong
+326,To Live (Huozhe) (1994),Drama,Yimou Zhang,You Ge| Gong Li| Ben Niu| Wu Jiang
+327,Tank Girl (1995),Action|Comedy|Sci-Fi,Rachel Talalay,Lori Petty| Ice-T| Naomi Watts| Don Harvey
+328,Tales from the Crypt Presents: Demon Knight (1995),Horror|Thriller,Ernest R. Dickerson,Jada Pinkett Smith| Brenda Bakke| CCH Pounder| Dick Miller
+329,Star Trek: Generations (1994),Adventure|Drama|Sci-Fi,David Carson,Patrick Stewart| Jonathan Frakes| Brent Spiner| LeVar Burton
+330,Tales from the Hood (1995),Action|Crime|Horror,Rusty Cundieff,Clarence Williams III| Joe Torry| De'aundre Bonds| Samuel Monroe Jr
+331,Tom & Viv (1994),Drama,Brian Gilbert,Willem Dafoe| Miranda Richardson| Rosemary Harris| Tim Dutton
+332,Village of the Damned (1995),Horror|Sci-Fi,John Carpenter,Christopher Reeve| Kirstie Alley| Linda Kozlowski| Michael Paré
+333,Tommy Boy (1995),Comedy,Peter Segal,Chris Farley| David Spade| Brian Dennehy| Bo Derek
+334,Vanya on 42nd Street (1994),Drama,Louis Malle,Phoebe Brand| Lynn Cohen| George Gaynes| Jerry Mayer
+335,Underneath (1995),Mystery|Thriller,Steven Soderbergh,Peter Gallagher| Alison Elliott| William Fichtner| Adam Trese
+336,Walking Dead, The (1995),Preston A. Whitmore II,Allen Payne| Eddie Griffin| Joe Morton| Vonte Sweet
+337,What's Eating Gilbert Grape (1993),Drama,Lasse Hallström,Johnny Depp| Leonardo DiCaprio| Juliette Lewis| Mary Steenburgen
+338,Virtuosity (1995),Action|Sci-Fi|Thriller,Brett Leonard,Denzel Washington| Kelly Lynch| Russell Crowe| Stephen Spinella
+339,While You Were Sleeping (1995),Comedy|Romance,Jon Turteltaub,Sandra Bullock| Bill Pullman| Peter Gallagher| Peter Boyle
+340,War, The (1994),Jon Avnet,Elijah Wood| Kevin Costner| Mare Winningham| Lexi Randall
+341,Double Happiness (1994),Drama,Mina Shum,Sandra Oh| Stephen Chang| Alannah Ong| Donald Fong
+342,Muriel's Wedding (1994),Comedy,P.J. Hogan,Sophie Lee| Roz Hammond| Toni Collette| Belinda Jarrett
+343,Baby-Sitters Club, The (1995),Melanie Mayron,Schuyler Fisk| Bre Blair| Rachael Leigh Cook| Larisa Oleynik
+344,Ace Ventura: Pet Detective (1994),Comedy,Tom Shadyac,Jim Carrey| Courteney Cox| Sean Young| Tone Loc
+345,Adventures of Priscilla, Queen of the Desert,Stephan Elliott,Hugo Weaving| Guy Pearce| Terence Stamp| Rebel Penfold-Russell
+346,Backbeat (1993),Drama|Musical,Iain Softley,Sheryl Lee| Stephen Dorff| Ian Hart| Gary Bakewell
+347,Bitter Moon (1992),Drama|Film-Noir|Romance,Roman Polanski,Peter Coyote| Emmanuelle Seigner| Hugh Grant| Kristin Scott Thomas
+348,Bullets Over Broadway (1994),Comedy,Woody Allen,John Cusack| Dianne Wiest| Jennifer Tilly| Chazz Palminteri
+349,Clear and Present Danger (1994),Action|Crime|Drama|Thriller,Phillip Noyce,Harrison Ford| Willem Dafoe| Anne Archer| Joaquim de Almeida
+350,Client, The (1994),Joel Schumacher,Susan Sarandon| Tommy Lee Jones| Mary-Louise Parker| Anthony LaPaglia
+351,Corrina, Corrina (1994),Jessie Nelson,Noreen Hennessey| Lucy Webb| Erica Yohn| Tina Majorino
+352,Crooklyn (1994),Comedy|Drama,Spike Lee,Alfre Woodard| Delroy Lindo| David Patrick Kelly| Zelda Harris
+353,Crow, The (1994),Alex Proyas,Brandon Lee| Rochelle Davis| Ernie Hudson| Michael Wincott
+354,Cobb (1994),Drama,Ron Shelton,Tommy Lee Jones| Robert Wuhl| Lolita Davidovich| Ned Bellamy
+355,Flintstones, The (1994),Brian Levant,John Goodman| Elizabeth Perkins| Rick Moranis| Rosie O'Donnell
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,Robert Zemeckis,Tom Hanks| Rebecca Williams| Sally Field| Michael Conner Humphreys
+357,Four Weddings and a Funeral (1994),Comedy|Romance,Mike Newell,Hugh Grant| James Fleet| Simon Callow| John Hannah
+358,Higher Learning (1995),Drama,John Singleton,Omar Epps| Kristy Swanson| Michael Rapaport| Jennifer Connelly
+359,I Like It Like That (1994),Comedy|Drama|Romance,Darnell Martin,Luna Lauren Velez| Jon Seda| Tomas Melly| Desiree Casado
+360,I Love Trouble (1994),Action|Comedy,Charles Shyer,Nick Nolte| Julia Roberts| Saul Rubinek| James Rebhorn
+361,It Could Happen to You (1994),Comedy|Drama|Romance,Andrew Bergman,Nicolas Cage| Bridget Fonda| Rosie Perez| Wendell Pierce
+362,Jungle Book, The (1994),Stephen Sommers,Jason Scott Lee| Cary Elwes| Lena Headey| Sam Neill
+363,Wonderful, Horrible Life of Leni Riefenstahl,Ray Müller,Leni Riefenstahl| Marlene Dietrich| Arnold Fanck| Walter Frentz
+364,Lion King, The (1994),Roger Allers| Rob Minkoff,Rowan Atkinson| Matthew Broderick| Niketa Calame-Harris| Jim Cummings
+365,Little Buddha (1993),Drama,Bernardo Bertolucci,Keanu Reeves| Ruocheng Ying| Chris Isaak| Alex Wiesendanger
+366,Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994),Wes Craven,Jf Davis| Heather Langenkamp| Miko Hughes| Matt Winston
+367,Mask, The (1994),Chuck Russell,Jim Carrey| Peter Riegert| Peter Greene| Amy Yasbeck
+368,Maverick (1994),Adventure|Comedy|Western,Richard Donner,Mel Gibson| Jodie Foster| James Garner| Graham Greene
+369,Mrs. Parker and the Vicious Circle (1994),Drama,Alan Rudolph,Jennifer Jason Leigh| Campbell Scott| Matthew Broderick| Peter Gallagher
+370,Naked Gun 33 1/3: The Final Insult (1994),Action|Comedy,Peter Segal,Leslie Nielsen| Priscilla Presley| George Kennedy| O
+371,Paper, The (1994),Ron Howard,Michael Keaton| Robert Duvall| Glenn Close| Marisa Tomei
+372,Reality Bites (1994),Comedy|Drama|Romance,Ben Stiller,Winona Ryder| Ethan Hawke| Janeane Garofalo| Steve Zahn
+373,Red Rock West (1992),Thriller,John Dahl,Nicolas Cage| Craig Reay| Vance Johnson| Robert Apel
+374,Richie Rich (1994),Children|Comedy,Donald Petrie,Macaulay Culkin| John Larroquette| Edward Herrmann| Christine Ebersole
+376,River Wild, The (1994),Curtis Hanson,Meryl Streep| Joseph Mazzello| Stephanie Sawyer| David Strathairn
+377,Speed (1994),Action|Romance|Thriller,Jan de Bont,Keanu Reeves| Dennis Hopper| Sandra Bullock| Joe Morton
+378,Speechless (1994),Comedy|Romance,Ron Underwood,Michael Keaton| Geena Davis| Christopher Reeve| Bonnie Bedelia
+379,Timecop (1994),Action|Sci-Fi|Thriller,Peter Hyams,Jean-Claude Van Damme| Mia Sara| Ron Silver| Bruce McGill
+380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,James Cameron,Arnold Schwarzenegger| Jamie Lee Curtis| Tom Arnold| Bill Paxton
+381,When a Man Loves a Woman (1994),Drama|Romance,Luis Mandoki,Andy Garcia| Meg Ryan| Ellen Burstyn| Tina Majorino
+382,Wolf (1994),Drama|Horror|Romance|Thriller,Mike Nichols,Jack Nicholson| Michelle Pfeiffer| James Spader| Kate Nelligan
+383,Wyatt Earp (1994),Western,Lawrence Kasdan,Kevin Costner| Dennis Quaid| Gene Hackman| David Andrews
+384,Bad Company (1995),Action|Crime|Drama,Damian Harris,Ellen Barkin| Laurence Fishburne| Frank Langella| Michael Beach
+385,Man of No Importance, A (1994),Suri Krishnamma,Albert Finney| Brenda Fricker| Michael Gambon| Tara Fitzgerald
+386,S.F.W. (1994),Drama,Jefery Levy,Stephen Dorff| Reese Witherspoon| Jake Busey| Joey Lauren Adams
+387,Low Down Dirty Shame, A (1994),Keenen Ivory Wayans,Keenen Ivory Wayans| Charles S
+388,Boys Life (1995),Drama,Robert Lee King| Raoul O'Connell| Brian Sloan,James Andrews| Mary Beth Aylesworth| Mike Barbour| Steve Bilich
+389,Colonel Chabert, Le (1994),Yves Angelo,Gérard Depardieu| Fanny Ardant| Fabrice Luchini| André Dussollier
+390,Faster Pussycat! Kill! Kill! (1965),Action|Crime|Drama,Russ Meyer,Tura Satana| Haji| Lori Williams| Ray Barlow
+391,Jason's Lyric (1994),Crime|Drama,Doug McHenry,Allen Payne| Jada Pinkett Smith| Bokeem Woodbine| Anthony 'Treach' Criss
+393,Street Fighter (1994),Action|Adventure|Fantasy,Steven E. de Souza,Jean-Claude Van Damme| Raul Julia| Ming-Na Wen| Damian Chapa
+405,Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension) (1994),Action|Fantasy,Andrew Morahan,Christopher Lambert| Mario Van Peebles| Deborah Kara Unger| Mako
+406,Federal Hill (1994),Drama,Michael Corrente,Nicholas Turturro| Anthony DeSando| Libby Langdon| Michael Raynor
+407,In the Mouth of Madness (1995),Horror|Thriller,John Carpenter,Sam Neill| Julie Carmen| Jürgen Prochnow| David Warner
+408,8 Seconds (1994),Drama,John G. Avildsen,James Rebhorn| Cameron Finley| Carrie Snodgress| Dustin Mayfield
+409,Above the Rim (1994),Crime|Drama,Jeff Pollack,Duane Martin| Leon| Tupac Shakur| David Bailey
+410,Addams Family Values (1993),Children|Comedy|Fantasy,Barry Sonnenfeld,Anjelica Huston| Raul Julia| Christopher Lloyd| Joan Cusack
+412,Age of Innocence, The (1993),Martin Scorsese,Daniel Day-Lewis| Michelle Pfeiffer| Winona Ryder| Linda Faye Farkas
+413,Airheads (1994),Comedy,Michael Lehmann,Brendan Fraser| Steve Buscemi| Adam Sandler| Chris Farley
+414,Air Up There, The (1994),Paul Michael Glaser,Kevin Bacon| Charles Gitonga Maina| Yolanda Vazquez| Winston Ntshona
+415,Another Stakeout (1993),Comedy|Thriller,John Badham,Richard Dreyfuss| Emilio Estevez| Rosie O'Donnell| Dennis Farina
+416,Bad Girls (1994),Western,Jonathan Kaplan,Madeleine Stowe| Mary Stuart Masterson| Andie MacDowell| Drew Barrymore
+417,Barcelona (1994),Comedy|Romance,Whit Stillman,Taylor Nichols| Chris Eigeman| Tushka Bergen| Mira Sorvino
+418,Being Human (1993),Drama,Bill Forsyth,Robin Williams| Kelly Hunter| Maudie Johnson| Max Johnson
+419,Beverly Hillbillies, The (1993),Penelope Spheeris,Jim Varney| Diedrich Bader| Erika Eleniak| Cloris Leachman
+420,Beverly Hills Cop III (1994),Action|Comedy|Crime|Thriller,John Landis,Eddie Murphy| Jon Tenney| Joey Travolta| Eugene Collier
+421,Black Beauty (1994),Adventure|Children|Drama,Caroline Thompson,Docs Keepin Time| Alan Cumming| Sean Bean| David Thewlis
+422,Blink (1994),Thriller,Michael Apted,Madeleine Stowe| Aidan Quinn| James Remar| Peter Friedman
+423,Blown Away (1994),Action|Thriller,Stephen Hopkins,Jeff Bridges| Tommy Lee Jones| Suzy Amis| Lloyd Bridges
+424,Blue Chips (1994),Drama,William Friedkin,Nick Nolte| Mary McDonnell| J
+425,Blue Sky (1994),Drama|Romance,Tony Richardson,Jessica Lange| Tommy Lee Jones| Powers Boothe| Carrie Snodgress
+426,Body Snatchers (1993),Horror|Sci-Fi|Thriller,Abel Ferrara,Terry Kinney| Meg Tilly| Gabrielle Anwar| Reilly Murphy
+427,Boxing Helena (1993),Drama|Mystery|Romance|Thriller,Jennifer Lynch,Julian Sands| Sherilyn Fenn| Bill Paxton| Kurtwood Smith
+428,Bronx Tale, A (1993),Robert De Niro,Robert De Niro| Chazz Palminteri| Lillo Brancato| Francis Capra
+429,Cabin Boy (1994),Comedy,Adam Resnick,Chris Elliott| Ritch Brinkley| James Gammon| Brian Doyle-Murray
+430,Calendar Girl (1993),Comedy|Drama,John Whitesell,Jason Priestley| Gabriel Olds| Jerry O'Connell| Joe Pantoliano
+431,Carlito's Way (1993),Crime|Drama,Brian De Palma,Al Pacino| Sean Penn| Penelope Ann Miller| John Leguizamo
+432,City Slickers II: The Legend of Curly's Gold (1994),Adventure|Comedy|Western,Paul Weiland,Billy Crystal| Daniel Stern| Jon Lovitz| Jack Palance
+433,Clean Slate (1994),Comedy,Mick Jackson,Dana Carvey| Valeria Golino| James Earl Jones| Kevin Pollak
+434,Cliffhanger (1993),Action|Adventure|Thriller,Renny Harlin,Sylvester Stallone| John Lithgow| Michael Rooker| Janine Turner
+435,Coneheads (1993),Comedy|Sci-Fi,Steve Barron,Robert Knott| Jonathan Penner| Whip Hubley| Dan Aykroyd
+436,Color of Night (1994),Drama|Thriller,Richard Rush,Bruce Willis| Jane March| Rubén Blades| Lesley Ann Warren
+437,Cops and Robbersons (1994),Comedy,Michael Ritchie,Chevy Chase| Jack Palance| Dianne Wiest| Robert Davi
+438,Cowboy Way, The (1994),Gregg Champion,Woody Harrelson| Kiefer Sutherland| Dylan McDermott| Ernie Hudson
+440,Dave (1993),Comedy|Romance,Ivan Reitman,Kevin Kline| Sigourney Weaver| Frank Langella| Kevin Dunn
+441,Dazed and Confused (1993),Comedy,Richard Linklater,Jason London| Joey Lauren Adams| Milla Jovovich| Shawn Andrews
+442,Demolition Man (1993),Action|Adventure|Sci-Fi,Marco Brambilla,Sylvester Stallone| Wesley Snipes| Sandra Bullock| Nigel Hawthorne
+444,Even Cowgirls Get the Blues (1993),Comedy|Romance,Gus Van Sant,Uma Thurman| Lorraine Bracco| Pat Morita| Angie Dickinson
+445,Fatal Instinct (1993),Comedy,Carl Reiner,Armand Assante| Sherilyn Fenn| Kate Nelligan| Sean Young
+446,Farewell My Concubine (Ba wang bie ji) (1993),Drama|Romance,Kaige Chen,Leslie Cheung| Fengyi Zhang| Gong Li| You Ge
+448,Fearless (1993),Drama,Peter Weir,Jeff Bridges| Isabella Rossellini| Rosie Perez| Tom Hulce
+449,Fear of a Black Hat (1994),Comedy,Rusty Cundieff,Mark Christopher Lawrence| Larry B
+450,With Honors (1994),Comedy|Drama,Alek Keshishian,Joe Pesci| Brendan Fraser| Moira Kelly| Patrick Dempsey
+451,Flesh and Bone (1993),Drama|Mystery|Romance,Steve Kloves,Julia McNeal| Ron Kuhlman| Jerry Swindall| Ryan Bohls
+452,Widows' Peak (1994),Drama,John Irvin,Mia Farrow| Joan Plowright| Natasha Richardson| Adrian Dunbar
+453,For Love or Money (1993),Comedy|Romance,Barry Sonnenfeld,Michael J
+454,Firm, The (1993),Sydney Pollack,Tom Cruise| Jeanne Tripplehorn| Gene Hackman| Hal Holbrook
+455,Free Willy (1993),Adventure|Children|Drama,Simon Wincer,Jason James Richter| Lori Petty| Jayne Atkinson| August Schellenberg
+456,Fresh (1994),Crime|Drama|Thriller,Boaz Yakin,Sean Nelson| Giancarlo Esposito| Samuel L
+457,Fugitive, The (1993),Andrew Davis,Harrison Ford| Tommy Lee Jones| Sela Ward| Julianne Moore
+458,Geronimo: An American Legend (1993),Drama|Western,Walter Hill,Jason Patric| Gene Hackman| Robert Duvall| Wes Studi
+459,Getaway, The (1994),Roger Donaldson,Alec Baldwin| Kim Basinger| Michael Madsen| James Woods
+460,Getting Even with Dad (1994),Comedy,Howard Deutch,Macaulay Culkin| Ted Danson| Glenne Headly| Saul Rubinek
+461,Go Fish (1994),Drama|Romance,Rose Troche,V
+464,Hard Target (1993),Action|Adventure|Crime|Thriller,John Woo,Chuck Pfarrer| Robert Apisa| Arnold Vosloo| Lance Henriksen
+466,Hot Shots! Part Deux (1993),Action|Comedy|War,Jim Abrahams,Charlie Sheen| Lloyd Bridges| Valeria Golino| Richard Crenna
+467,Live Nude Girls (1995),Comedy,Julianna Lavin,Dana Delany| Kim Cattrall| Cynthia Stevenson| Laila Robins
+468,Englishman Who Went Up a Hill But Came Down a Mountain, The (1995),Christopher Monger,Hugh Grant| Tara Fitzgerald| Colm Meaney| Ian McNeice
+469,House of the Spirits, The (1993),Bille August,Maria Conchita Alonso| António Assunção| Julie Balloo| Frank Baker
+470,House Party 3 (1994),Comedy,Eric Meza,Christopher Reid| Christopher Martin| David Edwards| Angela Means
+471,Hudsucker Proxy, The (1994),Joel Coen| Ethan Coen,Tim Robbins| Jennifer Jason Leigh| Paul Newman| Charles Durning
+472,I'll Do Anything (1994),Comedy|Drama,James L. Brooks,Nick Nolte| Whittni Wright| Albert Brooks| Julie Kavner
+473,In the Army Now (1994),Comedy|War,Daniel Petrie Jr.,Pauly Shore| Andy Dick| Lori Petty| David Alan Grier
+474,In the Line of Fire (1993),Action|Thriller,Wolfgang Petersen,Clint Eastwood| John Malkovich| Rene Russo| Dylan McDermott
+475,In the Name of the Father (1993),Drama,Jim Sheridan,Alison Crosbie| Daniel Day-Lewis| Philip King| Emma Thompson
+476,Inkwell, The (1994),Matty Rich,Larenz Tate| Joe Morton| Suzzanne Douglas| Glynn Turman
+477,What's Love Got to Do with It? (1993),Drama|Musical,Brian Gibson,RaéVen Kelly| Virginia Capers| Dororthy Thorton| Demetrice Cheathon
+478,Jimmy Hollywood (1994),Comedy|Crime|Drama,Barry Levinson,Joe Pesci| Christian Slater| Victoria Abril| Jason Beghe
+479,Judgment Night (1993),Action|Crime|Thriller,Stephen Hopkins,Emilio Estevez| Cuba Gooding Jr
+480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,Steven Spielberg,Sam Neill| Laura Dern| Jeff Goldblum| Richard Attenborough
+481,Kalifornia (1993),Drama|Thriller,Dominic Sena,Brad Pitt| Kathy Larson| David Milford| David Duchovny
+482,Killing Zoe (1994),Crime|Drama|Thriller,Roger Avary,Eric Stoltz| Martin Raymond| Eric Pascal Chaltiel| Julie Delpy
+484,Lassie (1994),Adventure|Children,Daniel Petrie,Tom Guiry| Helen Slater| Jon Tenney| Brittany Boyd
+485,Last Action Hero (1993),Action|Adventure|Comedy|Fantasy,John McTiernan,Arnold Schwarzenegger| F
+486,Life with Mikey (1993),Comedy,James Lapine,Michael J
+487,Lightning Jack (1994),Comedy|Western,Simon Wincer,Paul Hogan| Cuba Gooding Jr
+488,M. Butterfly (1993),Drama|Romance,David Cronenberg,Jeremy Irons| John Lone| Barbara Sukowa| Ian Richardson
+489,Made in America (1993),Comedy,Richard Benjamin,Whoopi Goldberg| Ted Danson| Will Smith| Nia Long
+490,Malice (1993),Thriller,Harold Becker,Alec Baldwin| Nicole Kidman| Bill Pullman| Bebe Neuwirth
+491,Man Without a Face, The (1993),Mel Gibson,Mel Gibson| Nick Stahl| Margaret Whitton| Fay Masterson
+492,Manhattan Murder Mystery (1993),Comedy|Mystery,Woody Allen,Woody Allen| Diane Keaton| Jerry Adler| Lynn Cohen
+493,Menace II Society (1993),Action|Crime|Drama,Albert Hughes| Allen Hughes,Tyrin Turner| Larenz Tate| June Kyoto Lu| Toshi Toda
+494,Executive Decision (1996),Action|Adventure|Thriller,Stuart Baird,Kurt Russell| Halle Berry| John Leguizamo| Oliver Platt
+495,In the Realm of the Senses (Ai no corrida) (1976),Drama,Nagisa Ôshima,Tatsuya Fuji| Eiko Matsuda| Aoi Nakajima| Yasuko Matsui
+496,What Happened Was... (1994),Comedy|Drama|Romance|Thriller,Tom Noonan,Karen Sillas| Tom Noonan
+497,Much Ado About Nothing (1993),Comedy|Romance,Kenneth Branagh,Richard Briers| Kate Beckinsale| Imelda Staunton| Jimmy Yuill
+499,Mr. Wonderful (1993),Comedy|Romance,Anthony Minghella,Matt Dillon| Annabella Sciorra| Mary-Louise Parker| William Hurt
+500,Mrs. Doubtfire (1993),Comedy|Drama,Chris Columbus,Robin Williams| Sally Field| Pierce Brosnan| Harvey Fierstein
+501,Naked (1993),Drama,Mike Leigh,David Thewlis| Lesley Sharp| Katrin Cartlidge| Greg Cruttwell
+502,Next Karate Kid, The (1994),Christopher Cain,Pat Morita| Hilary Swank| Michael Ironside| Constance Towers
+504,No Escape (1994),Action|Drama|Sci-Fi,Martin Campbell,Ray Liotta| Lance Henriksen| Stuart Wilson| Kevin Dillon
+505,North (1994),Comedy,Rob Reiner,Elijah Wood| Jason Alexander| Julia Louis-Dreyfus| Marc Shaiman
+506,Orlando (1992),Drama|Fantasy|Romance,Sally Potter,Tilda Swinton| Quentin Crisp| Jimmy Somerville| John Bott
+507,Perfect World, A (1993),Clint Eastwood,Kevin Costner| Clint Eastwood| Laura Dern| T
+508,Philadelphia (1993),Drama,Jonathan Demme,Tom Hanks| Denzel Washington| Roberta Maxwell| Buzz Kilman
+509,Piano, The (1993),Jane Campion,Holly Hunter| Harvey Keitel| Sam Neill| Anna Paquin
+510,Poetic Justice (1993),Drama,John Singleton,Khandi Alexander| Maya Angelou| Ché J
+511,Program, The (1993),David S. Ward,James Caan| Halle Berry| Omar Epps| Craig Sheffer
+512,Puppet Masters, The (1994),Stuart Orme,Donald Sutherland| Eric Thal| Julie Warner| Keith David
+513,Radioland Murders (1994),Comedy|Mystery|Romance,Mel Smith,Brian Benben| Mary Stuart Masterson| Ned Beatty| George Burns
+514,Ref, The (1994),Ted Demme,Denis Leary| Judy Davis| Kevin Spacey| Robert J
+515,Remains of the Day, The (1993),James Ivory,John Haycraft| Christopher Reeve| Anthony Hopkins| Emma Thompson
+516,Renaissance Man (1994),Comedy|Drama,Penny Marshall,Danny DeVito| Gregory Hines| James Remar| Ed Begley Jr
+517,Rising Sun (1993),Action|Drama|Mystery,Philip Kaufman,Sean Connery| Wesley Snipes| Harvey Keitel| Cary-Hiroyuki Tagawa
+518,Road to Wellville, The (1994),Alan Parker,Anthony Hopkins| Bridget Fonda| Matthew Broderick| John Cusack
+519,RoboCop 3 (1993),Action|Crime|Drama|Sci-Fi|Thriller,Fred Dekker,Robert John Burke| Mario Machado| Remy Ryan| Jodi Long
+520,Robin Hood: Men in Tights (1993),Comedy,Mel Brooks,Cary Elwes| Richard Lewis| Roger Rees| Amy Yasbeck
+521,Romeo Is Bleeding (1993),Crime|Thriller,Peter Medak,Gary Oldman| Wallace Wood| Juliette Lewis| David Proval
+522,Romper Stomper (1992),Action|Drama,Geoffrey Wright,Russell Crowe| Daniel Pollock| Jacqueline McKenzie| Alex Scott
+523,Ruby in Paradise (1993),Drama,Victor Nunez,Ashley Judd| Todd Field| Bentley Mitchum| Allison Dean
+524,Rudy (1993),Drama,David Anspaugh,Sean Astin| Jon Favreau| Ned Beatty| Greta Lind
+526,Savage Nights (Nuits fauves, Les) (1992),Cyril Collard,Cyril Collard| Romane Bohringer| Carlos López| Corine Blue
+527,Schindler's List (1993),Drama|War,Steven Spielberg,Liam Neeson| Ben Kingsley| Ralph Fiennes| Caroline Goodall
+528,Scout, The (1994),Michael Ritchie,Albert Brooks| Brendan Fraser| Dianne Wiest| Anne Twomey
+529,Searching for Bobby Fischer (1993),Drama,Steven Zaillian,Max Pomeranc| Joe Mantegna| Joan Allen| Ben Kingsley
+531,Secret Garden, The (1993),Agnieszka Holland,Kate Maberly| Heydon Prowse| Andrew Knott| Maggie Smith
+532,Serial Mom (1994),Comedy|Crime|Horror,John Waters,Kathleen Turner| Sam Waterston| Ricki Lake| Matthew Lillard
+533,Shadow, The (1994),Russell Mulcahy,Alec Baldwin| John Lone| Penelope Ann Miller| Peter Boyle
+534,Shadowlands (1993),Drama|Romance,Richard Attenborough,Julian Fellowes| Roddy Maude-Roxby| Michael Denison| Andrew Seear
+535,Short Cuts (1993),Drama,Robert Altman,Andie MacDowell| Bruce Davison| Jack Lemmon| Zane Cassidy
+536,Simple Twist of Fate, A (1994),Gillies MacKinnon,Steve Martin| Gabriel Byrne| Laura Linney| Catherine O'Hara
+537,Sirens (1994),Drama,John Duigan,Hugh Grant| Tara Fitzgerald| Sam Neill| Elle Macpherson
+538,Six Degrees of Separation (1993),Drama,Fred Schepisi,Stockard Channing| Will Smith| Donald Sutherland| Ian McKellen
+539,Sleepless in Seattle (1993),Comedy|Drama|Romance,Nora Ephron,Tom Hanks| Ross Malinger| Rita Wilson| Victor Garber
+540,Sliver (1993),Thriller,Phillip Noyce,Sharon Stone| William Baldwin| Tom Berenger| Polly Walker
+541,Blade Runner (1982),Action|Sci-Fi|Thriller,Ridley Scott,Harrison Ford| Rutger Hauer| Sean Young| Edward James Olmos
+542,Son in Law (1993),Comedy|Drama|Romance,Steve Rash,Pauly Shore| Carla Gugino| Lane Smith| Cindy Pickett
+543,So I Married an Axe Murderer (1993),Comedy|Romance|Thriller,Thomas Schlamme,Mike Myers| Nancy Travis| Anthony LaPaglia| Amanda Plummer
+544,Striking Distance (1993),Action|Crime,Rowdy Herrington,Bruce Willis| Sarah Jessica Parker| Dennis Farina| Tom Sizemore
+546,Super Mario Bros. (1993),Action|Adventure|Children|Comedy|Fantasy|Sci-Fi,Annabel Jankel| Rocky Morton,Bob Hoskins| John Leguizamo| Dennis Hopper| Samantha Mathis
+547,Surviving the Game (1994),Action|Adventure|Thriller,Ernest R. Dickerson,Ice-T| Rutger Hauer| Charles S
+548,Terminal Velocity (1994),Action|Mystery|Thriller,Deran Sarafian,Charlie Sheen| Nastassja Kinski| James Gandolfini| Christopher McDonald
+549,Thirty-Two Short Films About Glenn Gould (1993),Drama|Musical,François Girard,Colm Feore| Derek Keurvorst| Katya Ladan| Devon Anderson
+550,Threesome (1994),Comedy|Romance,Andrew Fleming,Lara Flynn Boyle| Stephen Baldwin| Josh Charles| Alexis Arquette
+551,Nightmare Before Christmas, The (1993),Henry Selick,Danny Elfman| Chris Sarandon| Catherine O'Hara| William Hickey
+552,Three Musketeers, The (1993),Stephen Herek,Charlie Sheen| Kiefer Sutherland| Chris O'Donnell| Oliver Platt
+553,Tombstone (1993),Action|Drama|Western,George P. Cosmatos| Kevin Jarre,Kurt Russell| Val Kilmer| Sam Elliott| Bill Paxton
+555,True Romance (1993),Crime|Thriller,Tony Scott,Christian Slater| Patricia Arquette| Dennis Hopper| Val Kilmer
+556,War Room, The (1993),Chris Hegedus| D.A. Pennebaker,James Carville| George Stephanopoulos| Heather Beckel| Paul Begala
+558,Pagemaster, The (1994),Pixote Hunt| Joe Johnston,Macaulay Culkin| Kanin Howell| Alexis Kirschner| Jessica Kirschner
+562,Welcome to the Dollhouse (1995),Comedy|Drama,Todd Solondz,Heather Matarazzo| Victoria Davis| Christina Brucato| Christina Vidal
+563,Germinal (1993),Drama|Romance,Claude Berri,Miou-Miou| Renaud| Jean Carmet| Judith Henry
+564,Chasers (1994),Comedy,Dennis Hopper,Tom Berenger| William McNamara| Erika Eleniak| Crispin Glover
+567,Kika (1993),Comedy|Drama,Pedro Almodóvar,Verónica Forqué| Peter Coyote| Victoria Abril| Àlex Casanovas
+568,Bhaji on the Beach (1993),Comedy|Drama,Gurinder Chadha,Kim Vithana| Jimmi Harkishin| Sarita Khajuria| Akbar Kurtha
+569,Little Big League (1994),Comedy|Drama,Andrew Scheinman,Luke Edwards| Timothy Busfield| John Ashton| Ashley Crow
+573,Ciao, Professore! (Io speriamo che me la cavo) (1992),Lina Wertmüller,Paolo Villaggio| Isa Danieli| Gigio Morra| Sergio Solli
+574,Spanking the Monkey (1994),Comedy|Drama,David O. Russell,Jeremy Davies| Alberta Watson| Benjamin Hendrickson| Elizabeth Newett
+575,Little Rascals, The (1994),Penelope Spheeris,Travis Tedford| Kevin Jamal Woods| Jordan Warkol| Zachary Mabry
+577,Andre (1994),Adventure|Children|Drama,George Miller,Tina Majorino| Chelsea Field| Shane Meier| Aidan Pendleton
+579,Escort, The (Scorta,Ricky Tognazzi,Claudio Amendola| Enrico Lo Verso| Carlo Cecchi| Ricky Memphis
+580,Princess Caraboo (1994),Drama,Michael Austin,Jim Broadbent| Phoebe Cates| Wendy Hughes| Kevin Kline
+581,Celluloid Closet, The (1995),Rob Epstein| Jeffrey Friedman,Lily Tomlin| Tony Curtis| Susie Bright| Arthur Laurents
+583,Dear Diary (Caro Diario) (1994),Comedy|Drama,Nanni Moretti,Nanni Moretti| Giovanna Bozzolo| Sebastiano Nardone| Antonio Petrocelli
+585,Brady Bunch Movie, The (1995),Betty Thomas,Shelley Long| Gary Cole| Christine Taylor| Christopher Daniel Barnes
+586,Home Alone (1990),Children|Comedy,Chris Columbus,Macaulay Culkin| Joe Pesci| Daniel Stern| John Heard
+587,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller,Jerry Zucker,Patrick Swayze| Demi Moore| Tony Goldwyn| Stanley Lawrence
+588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,Ron Clements| John Musker,Scott Weinger| Robin Williams| Linda Larkin| Jonathan Freeman
+589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,James Cameron,Arnold Schwarzenegger| Linda Hamilton| Edward Furlong| Robert Patrick
+590,Dances with Wolves (1990),Adventure|Drama|Western,Kevin Costner,Kevin Costner| Mary McDonnell| Graham Greene| Rodney A
+592,Batman (1989),Action|Crime|Thriller,Tim Burton,Michael Keaton| Jack Nicholson| Kim Basinger| Robert Wuhl
+593,Silence of the Lambs, The (1991),Jonathan Demme,Jodie Foster| Lawrence A
+594,Snow White and the Seven Dwarfs (1937),Animation|Children|Drama|Fantasy|Musical,William Cottrell| David Hand| Wilfred Jackson| Larry Morey| Perce Pearce| Ben Sharpsteen,Roy Atwell| Stuart Buchanan| Adriana Caselotti| Eddie Collins
+595,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX,Gary Trousdale| Kirk Wise,Robby Benson| Jesse Corti| Rex Everhart| Angela Lansbury
+596,Pinocchio (1940),Animation|Children|Fantasy|Musical,Norman Ferguson| T. Hee| Wilfred Jackson| Jack Kinney| Hamilton Luske| Bill Roberts| Ben Sharpsteen,Mel Blanc| Billy Bletcher| Don Brodie| Stuart Buchanan
+597,Pretty Woman (1990),Comedy|Romance,Garry Marshall,Richard Gere| Julia Roberts| Ralph Bellamy| Jason Alexander
+599,Wild Bunch, The (1969),Sam Peckinpah,William Holden| Ernest Borgnine| Robert Ryan| Edmond O'Brien
+600,Love and a .45 (1994),Action|Comedy|Crime,C.M. Talkington,Gil Bellows| Renée Zellweger| Rory Cochrane| Jeffrey Combs
+602,Great Day in Harlem, A (1994),Jean Bach,Quincy Jones| Dizzy Gillespie| Sonny Rollins| Buck Clayton
+605,One Fine Day (1996),Drama|Romance,Michael Hoffman,Michelle Pfeiffer| George Clooney| Mae Whitman| Alex D
+606,Candyman: Farewell to the Flesh (1995),Fantasy|Horror,Bill Condon,Caroline Barclay| Michael Bergeron| Brianna Blanchard| Clotiel Bordeltier
+608,Fargo (1996),Comedy|Crime|Drama|Thriller,Joel Coen| Ethan Coen,William H
+609,Homeward Bound II: Lost in San Francisco (1996),Adventure|Children,David R. Ellis,Michael J
+610,Heavy Metal (1981),Action|Adventure|Animation|Horror|Sci-Fi,Gerald Potterton| John Bruno| John Halas| Julian Harris| Jimmy T. Murakami| Barrie Nelson| Paul Sabella| Jack Stokes| Pino Van Lamsweerde| Harold Whitaker,Don Francks| Caroline Semple| Richard Romanus| Susan Roman
+611,Hellraiser: Bloodline (1996),Action|Horror|Sci-Fi,Kevin Yagher,Bruce Ramsay| Valentina Vargas| Doug Bradley| Charlotte Chatton
+612,Pallbearer, The (1996),Matt Reeves,David Schwimmer| Gwyneth Paltrow| Michael Rapaport| Toni Collette
+613,Jane Eyre (1996),Drama|Romance,Franco Zeffirelli,Anna Paquin| Nic Knight| Nicola Howard| Sasha Graff
+615,Bread and Chocolate (Pane e cioccolata) (1973),Comedy|Drama,Franco Brusati,Nino Manfredi| Paolo Turco| Ugo D'Alessio| Tano Cimarosa
+616,Aristocats, The (1970),Wolfgang Reitherman,Phil Harris| Eva Gabor| Sterling Holloway| Scatman Crothers
+617,Flower of My Secret, The (La flor de mi secreto) (1995),Pedro Almodóvar,Marisa Paredes| Juan Echanove| Carme Elias| Rossy de Palma
+618,Two Much (1995),Comedy|Romance,Fernando Trueba,Antonio Banderas| Melanie Griffith| Daryl Hannah| Danny Aiello
+619,Ed (1996),Comedy,Bill Couturié,Matt LeBlanc| Gene Ross| Paul Hewitt| Sage Allen
+626,Thin Line Between Love and Hate, A (1996),Martin Lawrence,Martin Lawrence| Lynn Whitfield| Regina King| Bobby Brown
+627,Last Supper, The (1995),Stacy Title,Annabeth Gish| Ron Perlman| Cameron Diaz| Jonathan Penner
+628,Primal Fear (1996),Crime|Drama|Mystery|Thriller,Gregory Hoblit,Richard Gere| Laura Linney| John Mahoney| Alfre Woodard
+631,All Dogs Go to Heaven 2 (1996),Adventure|Animation|Children|Fantasy|Musical|Romance,Larry Leker| Paul Sabella,Ernest Borgnine| Bebe Neuwirth| Charlie Sheen| Hamilton Camp
+632,Land and Freedom (Tierra y libertad) (1995),Drama|War,Ken Loach,Ian Hart| Rosana Pastor| Icíar Bollaín| Tom Gilroy
+633,Denise Calls Up (1995),Comedy,Hal Salwen,Tim Daly| Caroleen Feeney| Dan Gunther| Dana Wheeler-Nicholson
+634,Theodore Rex (1995),Comedy,Jonathan R. Betuel,Whoopi Goldberg| Armin Mueller-Stahl| Juliet Landau| Bud Cort
+635,Family Thing, A (1996),Richard Pearce,Robert Duvall| James Earl Jones| Michael Beach| Irma P
+636,Frisk (1995),Drama,Todd Verow,Michael Gunther| Craig Chester| Michael Stock| Raoul O'Connell
+637,Sgt. Bilko (1996),Comedy,Jonathan Lynn,Steve Martin| Dan Aykroyd| Phil Hartman| Glenne Headly
+638,Jack and Sarah (1995),Romance,Tim Sullivan,Richard E
+639,Girl 6 (1996),Comedy|Drama,Spike Lee,Theresa Randle| Isaiah Washington| Spike Lee| Jenifer Lewis
+640,Diabolique (1996),Drama|Thriller,Jeremiah S. Chechik,Sharon Stone| Isabelle Adjani| Chazz Palminteri| Kathy Bates
+645,Nelly & Monsieur Arnaud (1995),Drama,Claude Sautet,Emmanuelle Béart| Michel Serrault| Jean-Hugues Anglade| Claire Nadeau
+647,Courage Under Fire (1996),Action|Crime|Drama|War,Edward Zwick,Denzel Washington| Meg Ryan| Lou Diamond Phillips| Michael Moriarty
+648,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller,Brian De Palma,Tom Cruise| Jon Voight| Emmanuelle Béart| Henry Czerny
+649,Cold Fever (Á köldum klaka) (1995),Comedy|Drama,Friðrik Þór Friðriksson,Masatoshi Nagase| Lili Taylor| Fisher Stevens| Gísli Halldórsson
+650,Moll Flanders (1996),Drama,Pen Densham,Robin Wright| Morgan Freeman| Stockard Channing| John Lynch
+653,Dragonheart (1996),Action|Adventure|Fantasy,Rob Cohen,Dennis Quaid| David Thewlis| Pete Postlethwaite| Dina Meyer
+656,Eddie (1996),Comedy,Steve Rash,Whoopi Goldberg| Frank Langella| Dennis Farina| Richard Jenkins
+661,James and the Giant Peach (1996),Adventure|Animation|Children|Fantasy|Musical,Henry Selick,Simon Callow| Richard Dreyfuss| Jane Leeves| Joanna Lumley
+662,Fear (1996),Thriller,James Foley,Mark Wahlberg| Reese Witherspoon| William Petersen| Amy Brenneman
+663,Kids in the Hall: Brain Candy (1996),Comedy,Kelly Makin,David Foley| Bruce McCulloch| Kevin McDonald| Mark McKinney
+665,Underground (1995),Comedy|Drama|War,Emir Kusturica,Predrag 'Miki' Manojlovic| Lazar Ristovski| Mirjana Jokovic| Slavko Stimac
+667,Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite) (1996),Action,Alan Mehrez| Philip Tan,Daniel Bernhardt| Pat Morita| Donald Gibb| James Hong
+668,Song of the Little Road (Pather Panchali) (1955),Drama,Satyajit Ray,Kanu Bannerjee| Karuna Bannerjee| Chunibala Devi| Uma Das Gupta
+670,World of Apu, The (Apur Sansar) (1959),Satyajit Ray,Soumitra Chatterjee| Sharmila Tagore| Alok Chakravarty| Swapan Mukherjee
+671,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi,Jim Mallon,Trace Beaulieu| Michael J
+673,Space Jam (1996),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,Joe Pytka,Michael Jordan| Wayne Knight| Theresa Randle| Manner Washington
+674,Barbarella (1968),Adventure|Comedy|Sci-Fi,Roger Vadim,Jane Fonda| John Phillip Law| Anita Pallenberg| Milo O'Shea
+678,Some Folks Call It a Sling Blade (1993),Drama|Thriller,George Hickenlooper,Billy Bob Thornton| Molly Ringwald| J
+679,Run of the Country, The (1995),Peter Yates,Albert Finney| Matt Keeslar| Victoria Smurfit| Anthony Brophy
+680,Alphaville (Alphaville, une étrange aventure de Lemmy Caution) (1965),Jean-Luc Godard,Eddie Constantine| Anna Karina| Akim Tamiroff| Valérie Boisgel
+685,It's My Party (1996),Drama,Randal Kleiser,Margaret Cho| Bruce Davison| Lee Grant| Devon Gummersall
+688,Operation Dumbo Drop (1995),Action|Adventure|Comedy|War,Simon Wincer,Danny Glover| Ray Liotta| Denis Leary| Doug E
+691,Mrs. Winterbourne (1996),Comedy|Romance,Richard Benjamin,Shirley MacLaine| Ricki Lake| Brendan Fraser| Miguel Sandoval
+692,Solo (1996),Action|Sci-Fi|Thriller,Norberto Barba,Mario Van Peebles| Barry Corbin| William Sadler| Jaime Gomez
+694,Substitute, The (1996),Robert Mandel,Tom Berenger| Raymond Cruz| William Forsythe| Luis Guzmán
+695,True Crime (1996),Mystery|Thriller,Pat Verducci,Alicia Silverstone| Kevin Dillon| Bill Nunn| Michael Bowen
+697,Feeling Minnesota (1996),Drama|Romance,Steven Baigelman,Keanu Reeves| Cameron Diaz| Vincent D'Onofrio| Delroy Lindo
+698,Delta of Venus (1995),Drama,Zalman King,Audie England| Costas Mandylor| Eric da Silva| Raven Snow
+700,Angus (1995),Comedy,Patrick Read Johnson,Perry Anzilotti| Kathy Bates| Robert Curtis Brown| Kevin Connolly
+703,Boys (1996),Drama,Stacy Cochran,Winona Ryder| Lukas Haas| John C
+704,Quest, The (1996),Jean-Claude Van Damme,Jean-Claude Van Damme| Roger Moore| James Remar| Janet Gunn
+706,Sunset Park (1996),Drama,Steve Gomer,Rhea Perlman| Fredro Starr| Carol Kane| Terrence Howard
+707,Mulholland Falls (1996),Crime|Drama|Thriller,Lee Tamahori,Nick Nolte| Melanie Griffith| Chazz Palminteri| Michael Madsen
+708,Truth About Cats & Dogs, The (1996),Michael Lehmann,Uma Thurman| Janeane Garofalo| Ben Chaplin| Jamie Foxx
+709,Oliver & Company (1988),Adventure|Animation|Children|Comedy|Musical,George Scribner,Joey Lawrence| Billy Joel| Cheech Marin| Richard Mulligan
+710,Celtic Pride (1996),Comedy,Tom DeCerchio,Damon Wayans| Daniel Stern| Dan Aykroyd| Gail O'Grady
+711,Flipper (1996),Adventure|Children,Alan Shapiro| Shelly Hatton,Elijah Wood| Paul Hogan| Jonathan Banks| Robert Deacon
+714,Dead Man (1995),Drama|Mystery|Western,Jim Jarmusch,Johnny Depp| Gary Farmer| Crispin Glover| Lance Henriksen
+715,Horseman on the Roof, The (Hussard sur le toit,Jean-Paul Rappeneau,Juliette Binoche| Olivier Martinez| Pierre Arditi| François Cluzet
+718,Visitors, The (Visiteurs,Jean-Marie Poiré,Christian Clavier| Jean Reno| Valérie Lemercier| Marie-Anne Chazel
+719,Multiplicity (1996),Comedy,Harold Ramis,Michael Keaton| Andie MacDowell| Zack Duhame| Katie Schlossberg
+720,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,,
+722,Haunted World of Edward D. Wood Jr., The (1996),Brett Thompson,Maila Nurmi| Dolores Fuller| Paul Marco| Conrad Brooks
+724,Craft, The (1996),Andrew Fleming,Robin Tunney| Fairuza Balk| Neve Campbell| Rachel True
+725,Great White Hype, The (1996),Reginald Hudlin,Samuel L
+726,Last Dance (1996),Drama,Bruce Beresford,Sharon Stone| Rob Morrow| Randy Quaid| Peter Gallagher
+728,Cold Comfort Farm (1995),Comedy,John Schlesinger,Eileen Atkins| Kate Beckinsale| Sheila Burrell| Stephen Fry
+731,Heaven's Prisoners (1996),Crime|Thriller,Phil Joanou,Alec Baldwin| Kelly Lynch| Mary Stuart Masterson| Eric Roberts
+733,Rock, The (1996),Michael Bay,Sean Connery| Nicolas Cage| Ed Harris| John Spencer
+735,Cemetery Man (Dellamorte Dellamore) (1994),Horror,Michele Soavi,Rupert Everett| François Hadji-Lazaro| Anna Falchi| Mickey Knox
+736,Twister (1996),Action|Adventure|Romance|Thriller,Jan de Bont,Helen Hunt| Bill Paxton| Cary Elwes| Jami Gertz
+737,Barb Wire (1996),Action|Sci-Fi,David Hogan,Amir AboulEla| Adriana Alexander| David Andriole| Vanessa Lee Asher
+741,Ghost in the Shell (Kôkaku kidôtai) (1995),Animation|Sci-Fi,Mamoru Oshii,Atsuko Tanaka| Akio Ôtsuka| Kôichi Yamadera| Yutaka Nakano
+742,Thinner (1996),Horror|Thriller,Tom Holland,Robert John Burke| Lucinda Jenney| Bethany Joy Lenz| Time Winters
+743,Spy Hard (1996),Comedy,Rick Friedberg,Leslie Nielsen| Nicollette Sheridan| Charles Durning| Marcia Gay Harden
+745,Wallace & Gromit: A Close Shave (1995),Animation|Children|Comedy,Nick Park,Peter Sallis| Anne Reid
+747,Stupids, The (1996),John Landis,Tom Arnold| Jessica Lundy| Bug Hall| Alex McKenna
+748,Arrival, The (1996),David Twohy,Charlie Sheen| Lindsay Crouse| Richard Schiff| Shane
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,Stanley Kubrick,Peter Sellers| George C
+757,Ashes of Time (Dung che sai duk) (1994),Drama,Kar-Wai Wong,Brigitte Lin| Leslie Cheung| Maggie Cheung| Tony Chiu-Wai Leung
+759,Maya Lin: A Strong Clear Vision (1994),Documentary,Freida Lee Mock,Maya Lin
+760,Stalingrad (1993),Drama|War,Joseph Vilsmaier,Dominique Horwitz| Thomas Kretschmann| Jochen Nickel| Sebastian Rudolph
+761,Phantom, The (1996),Simon Wincer,Billy Zane| Kristy Swanson| Treat Williams| Catherine Zeta-Jones
+762,Striptease (1996),Comedy|Crime,Andrew Bergman,Demi Moore| Burt Reynolds| Armand Assante| Ving Rhames
+764,Heavy (1995),Drama|Romance,James Mangold,Pruitt Taylor Vince| Shelley Winters| Liv Tyler| Debbie Harry
+765,Jack (1996),Comedy|Drama,Francis Ford Coppola,Robin Williams| Diane Lane| Brian Kerwin| Jennifer Lopez
+766,I Shot Andy Warhol (1996),Drama,Mary Harron,Lili Taylor| Jared Harris| Martha Plimpton| Lothaire Bluteau
+773,Touki Bouki (1973),Drama,Djibril Diop Mambéty,Magaye Niang| Myriam Niang| Christoph Colomb| Mustapha Ture
+775,Spirits of the Dead (1968),Horror|Mystery,Federico Fellini| Louis Malle| Roger Vadim,Brigitte Bardot| Alain Delon| Jane Fonda| Terence Stamp
+778,Trainspotting (1996),Comedy|Crime|Drama,Danny Boyle,Ewan McGregor| Ewen Bremner| Jonny Lee Miller| Kevin McKidd
+779,'Til There Was You (1997),Drama|Romance,Scott Winant,John Plumpis| Janel Moloney| Yvonne Zima| Christine Ebersole
+780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller,Roland Emmerich,Will Smith| Bill Pullman| Jeff Goldblum| Mary McDonnell
+781,Stealing Beauty (1996),Drama,Bernardo Bertolucci,Carlo Cecchi| Sinéad Cusack| Joseph Fiennes| Jason Flemyng
+782,Fan, The (1996),Tony Scott,Robert De Niro| Wesley Snipes| Ellen Barkin| John Leguizamo
+783,Hunchback of Notre Dame, The (1996),Gary Trousdale| Kirk Wise,Jason Alexander| Mary Kay Bergman| Corey Burton| Jim Cummings
+784,Cable Guy, The (1996),Ben Stiller,Jim Carrey| Matthew Broderick| Leslie Mann| Jack Black
+785,Kingpin (1996),Comedy,Bobby Farrelly| Peter Farrelly,Woody Harrelson| Randy Quaid| Vanessa Angel| Bill Murray
+786,Eraser (1996),Action|Drama|Thriller,Chuck Russell,Arnold Schwarzenegger| James Caan| Vanessa Williams| James Coburn
+788,Nutty Professor, The (1996),Tom Shadyac,Eddie Murphy| Jada Pinkett Smith| James Coburn| Larry Miller
+790,Unforgettable Summer, An (Un été inoubliable) (1994),Lucian Pintilie,Kristin Scott Thomas| Claudiu Bleont| Olga Tudorache| George Constantin
+791,Last Klezmer: Leopold Kozlowski, His Life and Music,Yale Strom,Leopold Kozlowski
+795,Somebody to Love (1994),Drama,Alexandre Rockwell,Rosie Perez| Harvey Keitel| Anthony Quinn| Michael DeLorenzo
+798,Daylight (1996),Action|Adventure|Drama|Thriller,Rob Cohen,Sylvester Stallone| Amy Brenneman| Viggo Mortensen| Dan Hedaya
+799,Frighteners, The (1996),Peter Jackson,Michael J
+800,Lone Star (1996),Drama|Mystery|Western,John Sayles,Stephen Mendillo| Stephen J
+801,Harriet the Spy (1996),Children|Comedy,Bronwen Hughes,Michelle Trachtenberg| Gregory Smith| Vanessa Chester| Rosie O'Donnell
+802,Phenomenon (1996),Drama|Romance,Jon Turteltaub,John Travolta| Kyra Sedgwick| Forest Whitaker| Robert Duvall
+803,Walking and Talking (1996),Comedy|Drama|Romance,Nicole Holofcener,Amy Braverman| Miranda Rhyne| Catherine Keener| Anne Heche
+804,She's the One (1996),Comedy|Romance,Edward Burns,John Mahoney| Edward Burns| Michael McGlone| Maxine Bahns
+805,Time to Kill, A (1996),Joel Schumacher,Matthew McConaughey| Sandra Bullock| Samuel L
+806,American Buffalo (1996),Crime|Drama,Michael Corrente,Dustin Hoffman| Dennis Franz| Sean Nelson
+808,Alaska (1996),Adventure|Children,Fraser C. Heston,Thora Birch| Vincent Kartheiser| Dirk Benedict| Charlton Heston
+809,Fled (1996),Action|Adventure,Kevin Hooks,Laurence Fishburne| Stephen Baldwin| Will Patton| Robert John Burke
+810,Kazaam (1996),Children|Comedy|Fantasy,Paul Michael Glaser,Shaquille O'Neal| Francis Capra| Ally Walker| James Acheson
+813,Larger Than Life (1996),Comedy,Howard Franklin,Jerry Adler| Bill Murray| Richard Alan Baker| Richie Allan
+818,Very Brady Sequel, A (1996),Arlene Sanford,Shelley Long| Gary Cole| Christopher Daniel Barnes| Christine Taylor
+823,Collector, The (La collectionneuse) (1967),Éric Rohmer,Patrick Bauchau| Haydée Politoff| Daniel Pommereulle| Alain Jouffroy
+824,Kaspar Hauser (1993),Drama|Mystery,Peter Sehr,André Eisermann| Udo Samel| Jeremy Clyde| Katharina Thalbach
+828,Adventures of Pinocchio, The (1996),Steve Barron,Martin Landau| Jonathan Taylor Thomas| Geneviève Bujold| Udo Kier
+829,Joe's Apartment (1996),Comedy|Fantasy|Musical,John Payson,Jerry O'Connell| Megan Ward| Billy West| Reginald Hudlin
+830,First Wives Club, The (1996),Hugh Wilson,Goldie Hawn| Bette Midler| Diane Keaton| Maggie Smith
+832,Ransom (1996),Crime|Thriller,Ron Howard,Mel Gibson| Rene Russo| Brawley Nolte| Gary Sinise
+833,High School High (1996),Comedy,Hart Bochner,Jon Lovitz| Tia Carrere| Louise Fletcher| Mekhi Phifer
+835,Foxfire (1996),Drama,Annette Haywood-Carter,Hedy Burress| Angelina Jolie| Jenny Lewis| Jenny Shimizu
+836,Chain Reaction (1996),Action|Adventure|Thriller,Andrew Davis,Keanu Reeves| Morgan Freeman| Rachel Weisz| Fred Ward
+837,Matilda (1996),Children|Comedy|Fantasy,Danny DeVito,Mara Wilson| Danny DeVito| Rhea Perlman| Embeth Davidtz
+838,Emma (1996),Comedy|Drama|Romance,Douglas McGrath,Gwyneth Paltrow| James Cosmo| Greta Scacchi| Alan Cumming
+839,Crow: City of Angels, The (1996),Tim Pope,Vincent Perez| Mia Kirshner| Richard Brooks| Iggy Pop
+840,House Arrest (1996),Children|Comedy,Harry Winer,Kyle Howard| Herbert Russell| Jamie Lee Curtis| Kevin Pollak
+841,Eyes Without a Face (Yeux sans visage, Les) (1959),Georges Franju,Pierre Brasseur| Alida Valli| Juliette Mayniel| Alexandre Rignault
+842,Tales from the Crypt Presents: Bordello of Blood (1996),Comedy|Horror,Gilbert Adler,Dennis Miller| Erika Eleniak| Chris Sarandon| Aubrey Morris
+848,Spitfire Grill, The (1996),Lee David Zlotoff,Alison Elliott| Ellen Burstyn| Marcia Gay Harden| Will Patton
+849,Escape from L.A. (1996),Action|Adventure|Sci-Fi|Thriller,John Carpenter,Kurt Russell| A
+851,Basquiat (1996),Drama,Julian Schnabel,Jeffrey Wright| Michael Wincott| Benicio Del Toro| Claire Forlani
+852,Tin Cup (1996),Comedy|Drama|Romance,Ron Shelton,Kevin Costner| Rene Russo| Don Johnson| Cheech Marin
+858,Godfather, The (1972),Francis Ford Coppola,Marlon Brando| Al Pacino| James Caan| Richard S
+861,Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha) (1992),Action|Comedy|Crime|Thriller,Stanley Tong,Jackie Chan| Michelle Yeoh| Maggie Cheung| Kenneth Tsang
+866,Bound (1996),Crime|Drama|Romance|Thriller,Lana Wachowski| Lilly Wachowski,Jennifer Tilly| Gina Gershon| Joe Pantoliano| John P
+867,Carpool (1996),Comedy|Crime,Arthur Hiller,Tom Arnold| David Paymer| Rhea Perlman| Rod Steiger
+869,Kansas City (1996),Crime|Drama|Musical|Thriller,Robert Altman,Jennifer Jason Leigh| Miranda Richardson| Harry Belafonte| Michael Murphy
+870,Gone Fishin' (1997),Comedy,Christopher Cain,Joe Pesci| Danny Glover| Rosanna Arquette| Lynn Whitfield
+875,Nothing to Lose (1994),Action|Crime|Drama,Izidore K. Musallam,Alexandra Paul| Youssef Abed-Alnour| Paul Gleason| Michael V
+876,Supercop 2 (Project S) (Chao ji ji hua) (1993),Action|Comedy|Crime|Thriller,Stanley Tong,Michelle Yeoh| Rongguang Yu| Emil Chau| Athena Chu
+879,Relic, The (1997),Peter Hyams,Penelope Ann Miller| Tom Sizemore| Linda Hunt| James Whitmore
+880,Island of Dr. Moreau, The (1996),John Frankenheimer| Richard Stanley,Marlon Brando| Val Kilmer| David Thewlis| Fairuza Balk
+881,First Kid (1996),Children|Comedy,David Mickey Evans,Sinbad| Brock Pierce| Blake Boyd| Timothy Busfield
+882,Trigger Effect, The (1996),David Koepp,Kyle MacLachlan| Elisabeth Shue| Dermot Mulroney| Richard T
+885,Bogus (1996),Children|Drama|Fantasy,Norman Jewison,Whoopi Goldberg| Gérard Depardieu| Haley Joel Osment| Andrea Martin
+886,Bulletproof (1996),Action|Comedy|Crime,Ernest R. Dickerson,Damon Wayans| Adam Sandler| James Caan| Jeep Swenson
+888,Land Before Time III: The Time of the Great Giving (1995),Adventure|Animation|Children|Musical,Roy Allen Smith,Scott McAfee| Candace Hutson| Heather Hogan| Jeff Bennett
+889,1-900 (06) (1994),Drama|Romance,Theo van Gogh,Ariane Schluter| Ad van Kempen
+891,Halloween: The Curse of Michael Myers (Halloween 6: The Curse of Michael Myers) (1995),Horror|Thriller,Joe Chappelle,Donald Pleasence| Paul Rudd| Marianne Hagan| Mitchell Ryan
+892,Twelfth Night (1996),Comedy|Drama|Romance,Trevor Nunn,Imogen Stubbs| Steven Mackintosh| Nicholas Farrell| Sidney Livingstone
+893,Mother Night (1996),Drama,Keith Gordon,Nick Nolte| Tony Robinow| Michael McGill| Shimon Aviel
+896,Wild Reeds (Les roseaux sauvages) (1994),Drama,André Téchiné,Élodie Bouchez| Gaël Morel| Stéphane Rideau| Frédéric Gorny
+897,For Whom the Bell Tolls (1943),Adventure|Drama|Romance|War,Sam Wood,Gary Cooper| Ingrid Bergman| Akim Tamiroff| Arturo de Córdova
+898,Philadelphia Story, The (1940),George Cukor,Cary Grant| Katharine Hepburn| James Stewart| Ruth Hussey
+899,Singin' in the Rain (1952),Comedy|Musical|Romance,Stanley Donen| Gene Kelly,Gene Kelly| Donald O'Connor| Debbie Reynolds| Jean Hagen
+900,American in Paris, An (1951),Vincente Minnelli,Gene Kelly| Leslie Caron| Oscar Levant| Georges Guétary
+901,Funny Face (1957),Comedy|Musical,Stanley Donen,Audrey Hepburn| Fred Astaire| Kay Thompson| Michel Auclair
+902,Breakfast at Tiffany's (1961),Drama|Romance,Blake Edwards,Audrey Hepburn| George Peppard| Patricia Neal| Buddy Ebsen
+903,Vertigo (1958),Drama|Mystery|Romance|Thriller,Alfred Hitchcock,James Stewart| Kim Novak| Barbara Bel Geddes| Tom Helmore
+904,Rear Window (1954),Mystery|Thriller,Alfred Hitchcock,James Stewart| Grace Kelly| Wendell Corey| Thelma Ritter
+905,It Happened One Night (1934),Comedy|Romance,Frank Capra,Clark Gable| Claudette Colbert| Walter Connolly| Roscoe Karns
+906,Gaslight (1944),Drama|Thriller,George Cukor,Charles Boyer| Ingrid Bergman| Joseph Cotten| May Whitty
+907,Gay Divorcee, The (1934),Mark Sandrich,Fred Astaire| Ginger Rogers| Alice Brady| Edward Everett Horton
+908,North by Northwest (1959),Action|Adventure|Mystery|Romance|Thriller,Alfred Hitchcock,Cary Grant| Eva Marie Saint| James Mason| Jessie Royce Landis
+909,Apartment, The (1960),Billy Wilder,Jack Lemmon| Shirley MacLaine| Fred MacMurray| Ray Walston
+910,Some Like It Hot (1959),Comedy|Crime,Billy Wilder,Marilyn Monroe| Tony Curtis| Jack Lemmon| George Raft
+911,Charade (1963),Comedy|Crime|Mystery|Romance|Thriller,Stanley Donen,Cary Grant| Audrey Hepburn| Walter Matthau| James Coburn
+912,Casablanca (1942),Drama|Romance,Michael Curtiz,Humphrey Bogart| Ingrid Bergman| Paul Henreid| Claude Rains
+913,Maltese Falcon, The (1941),John Huston,Humphrey Bogart| Mary Astor| Gladys George| Peter Lorre
+914,My Fair Lady (1964),Comedy|Drama|Musical|Romance,George Cukor,Audrey Hepburn| Rex Harrison| Stanley Holloway| Wilfrid Hyde-White
+915,Sabrina (1954),Comedy|Romance,Billy Wilder,Humphrey Bogart| Audrey Hepburn| William Holden| Walter Hampden
+916,Roman Holiday (1953),Comedy|Drama|Romance,William Wyler,Gregory Peck| Audrey Hepburn| Eddie Albert| Hartley Power
+917,Little Princess, The (1939),Walter Lang| William A. Seiter,Shirley Temple| Richard Greene| Anita Louise| Ian Hunter
+918,Meet Me in St. Louis (1944),Musical,Vincente Minnelli,Judy Garland| Margaret O'Brien| Mary Astor| Lucille Bremer
+919,Wizard of Oz, The (1939),Victor Fleming| George Cukor| Mervyn LeRoy| Norman Taurog| Richard Thorpe| King Vidor,Judy Garland| Frank Morgan| Ray Bolger| Bert Lahr
+920,Gone with the Wind (1939),Drama|Romance|War,Victor Fleming| George Cukor| Sam Wood,Thomas Mitchell| Barbara O'Neil| Vivien Leigh| Evelyn Keyes
+921,My Favorite Year (1982),Comedy,Richard Benjamin,Peter O'Toole| Mark Linn-Baker| Jessica Harper| Joseph Bologna
+922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,Billy Wilder,William Holden| Gloria Swanson| Erich von Stroheim| Nancy Olson
+923,Citizen Kane (1941),Drama|Mystery,Orson Welles,Joseph Cotten| Dorothy Comingore| Agnes Moorehead| Ruth Warrick
+924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi,Stanley Kubrick,Keir Dullea| Gary Lockwood| William Sylvester| Daniel Richter
+926,All About Eve (1950),Drama,Joseph L. Mankiewicz,Bette Davis| Anne Baxter| George Sanders| Celeste Holm
+927,Women, The (1939),George Cukor,Norma Shearer| Joan Crawford| Rosalind Russell| Mary Boland
+928,Rebecca (1940),Drama|Mystery|Romance|Thriller,Alfred Hitchcock,Laurence Olivier| Joan Fontaine| George Sanders| Judith Anderson
+929,Foreign Correspondent (1940),Drama|Film-Noir|Mystery|Thriller,Alfred Hitchcock,Joel McCrea| Laraine Day| Herbert Marshall| George Sanders
+930,Notorious (1946),Film-Noir|Romance|Thriller,Alfred Hitchcock,Cary Grant| Ingrid Bergman| Claude Rains| Louis Calhern
+931,Spellbound (1945),Mystery|Romance|Thriller,Alfred Hitchcock,Ingrid Bergman| Gregory Peck| Michael Chekhov| Leo G
+932,Affair to Remember, An (1957),Leo McCarey,Cary Grant| Deborah Kerr| Richard Denning| Neva Patterson
+933,To Catch a Thief (1955),Crime|Mystery|Romance|Thriller,Alfred Hitchcock,Cary Grant| Grace Kelly| Jessie Royce Landis| John Williams
+934,Father of the Bride (1950),Comedy,Vincente Minnelli,Spencer Tracy| Joan Bennett| Elizabeth Taylor| Don Taylor
+935,Band Wagon, The (1953),Vincente Minnelli,Fred Astaire| Cyd Charisse| Oscar Levant| Nanette Fabray
+936,Ninotchka (1939),Comedy|Romance,Ernst Lubitsch,Greta Garbo| Melvyn Douglas| Ina Claire| Bela Lugosi
+937,Love in the Afternoon (1957),Comedy|Romance,Billy Wilder,Gary Cooper| Audrey Hepburn| Maurice Chevalier| John McGiver
+938,Gigi (1958),Musical,Vincente Minnelli| Charles Walters,Leslie Caron| Maurice Chevalier| Louis Jourdan| Hermione Gingold
+940,Adventures of Robin Hood, The (1938),Michael Curtiz| William Keighley,Errol Flynn| Olivia de Havilland| Basil Rathbone| Claude Rains
+941,Mark of Zorro, The (1940),Rouben Mamoulian,Tyrone Power| Linda Darnell| Basil Rathbone| Gale Sondergaard
+942,Laura (1944),Crime|Film-Noir|Mystery,Otto Preminger,Gene Tierney| Dana Andrews| Clifton Webb| Vincent Price
+943,Ghost and Mrs. Muir, The (1947),Joseph L. Mankiewicz,Gene Tierney| Rex Harrison| George Sanders| Edna Best
+944,Lost Horizon (1937),Drama,Frank Capra,Ronald Colman| Jane Wyatt| Edward Everett Horton| John Howard
+945,Top Hat (1935),Comedy|Musical|Romance,Mark Sandrich,Fred Astaire| Ginger Rogers| Edward Everett Horton| Erik Rhodes
+946,To Be or Not to Be (1942),Comedy|Drama|War,Ernst Lubitsch,Carole Lombard| Jack Benny| Robert Stack| Felix Bressart
+947,My Man Godfrey (1936),Comedy|Romance,Gregory La Cava,William Powell| Carole Lombard| Alice Brady| Gail Patrick
+948,Giant (1956),Drama|Romance|Western,George Stevens,Elizabeth Taylor| Rock Hudson| James Dean| Carroll Baker
+949,East of Eden (1955),Drama,Elia Kazan,Julie Harris| James Dean| Raymond Massey| Burl Ives
+950,Thin Man, The (1934),W.S. Van Dyke,William Powell| Myrna Loy| Maureen O'Sullivan| Nat Pendleton
+951,His Girl Friday (1940),Comedy|Romance,Howard Hawks,Cary Grant| Rosalind Russell| Ralph Bellamy| Gene Lockhart
+952,Around the World in 80 Days (1956),Adventure|Comedy,Michael Anderson| John Farrow,Cantinflas| Finlay Currie| Robert Morley| Ronald Squire
+953,It's a Wonderful Life (1946),Children|Drama|Fantasy|Romance,Frank Capra,James Stewart| Donna Reed| Lionel Barrymore| Thomas Mitchell
+954,Mr. Smith Goes to Washington (1939),Drama,Frank Capra,Jean Arthur| James Stewart| Claude Rains| Edward Arnold
+955,Bringing Up Baby (1938),Comedy|Romance,Howard Hawks,Katharine Hepburn| Cary Grant| Charles Ruggles| Walter Catlett
+956,Penny Serenade (1941),Drama|Romance,George Stevens,Irene Dunne| Cary Grant| Beulah Bondi| Edgar Buchanan
+959,Of Human Bondage (1934),Drama,John Cromwell,Leslie Howard| Bette Davis| Frances Dee| Kay Johnson
+961,Little Lord Fauntleroy (1936),Drama,John Cromwell,Freddie Bartholomew| Dolores Costello| C
+963,Inspector General, The (1949),Henry Koster,Danny Kaye| Walter Slezak| Barbara Bates| Elsa Lanchester
+965,39 Steps, The (1935),Alfred Hitchcock,Robert Donat| Madeleine Carroll| Lucie Mannheim| Godfrey Tearle
+968,Night of the Living Dead (1968),Horror|Sci-Fi|Thriller,George A. Romero,Duane Jones| Judith O'Dea| Karl Hardman| Marilyn Eastman
+969,African Queen, The (1951),John Huston,Humphrey Bogart| Katharine Hepburn| Robert Morley| Peter Bull
+970,Beat the Devil (1953),Adventure|Comedy|Crime|Drama|Romance,John Huston,Humphrey Bogart| Jennifer Jones| Gina Lollobrigida| Robert Morley
+971,Cat on a Hot Tin Roof (1958),Drama,Richard Brooks,Elizabeth Taylor| Paul Newman| Burl Ives| Jack Carson
+973,Meet John Doe (1941),Comedy|Drama,Frank Capra,Gary Cooper| Barbara Stanwyck| Edward Arnold| Walter Brennan
+976,Farewell to Arms, A (1932),Frank Borzage,Helen Hayes| Gary Cooper| Adolphe Menjou| Mary Philips
+979,Nothing Personal (1995),Drama|War,Thaddeus O'Sullivan,Ian Hart| John Lynch| James Frain| Michael Gambon
+981,Dangerous Ground (1997),Drama,Darrell Roodt,Thokozani Nkosi| Ron Smerczak| Wilson Dunster| Ice Cube
+982,Picnic (1955),Drama,Joshua Logan,William Holden| Kim Novak| Betty Field| Susan Strasberg
+984,Pompatus of Love, The (1996),Richard Schenkman,Adrian Pasdar| Paige Turco| Arabella Field| Dana Wheeler-Nicholson
+986,Fly Away Home (1996),Adventure|Children,Carroll Ballard,Jeff Daniels| Anna Paquin| Dana Delany| Terry Kinney
+987,Bliss (1997),Drama|Romance,Lance Young,Craig Sheffer| Sheryl Lee| Terence Stamp| Casey Siemaszko
+988,Grace of My Heart (1996),Comedy|Drama,Allison Anders,Illeana Douglas| Sissy Boyd| Christina Pickles| Jill Sobule
+990,Maximum Risk (1996),Action|Adventure|Thriller,Ringo Lam,Jean-Claude Van Damme| Natasha Henstridge| Jean-Hugues Anglade| Zach Grenier
+991,Michael Collins (1996),Drama,Neil Jordan,Ian Hart| Julia Roberts| Richard Ingram| Liam Neeson
+993,Infinity (1996),Drama,Matthew Broderick,Matthew Broderick| Jeffrey Force| Peter Riegert| David Drew Gallagher
+994,Big Night (1996),Comedy|Drama,Campbell Scott| Stanley Tucci,Marc Anthony| Tony Shalhoub| Stanley Tucci| Larry Block
+996,Last Man Standing (1996),Action|Crime|Drama|Thriller,Walter Hill,Bruce Willis| Bruce Dern| William Sanderson| Christopher Walken
+998,Set It Off (1996),Action|Crime,F. Gary Gray,Jada Pinkett Smith| Queen Latifah| Vivica A
+999,2 Days in the Valley (1996),Crime|Film-Noir,John Herzfeld,Danny Aiello| Greg Cruttwell| Jeff Daniels| Teri Hatcher
+1003,Extreme Measures (1996),Drama|Thriller,Michael Apted,Hugh Grant| Gene Hackman| Sarah Jessica Parker| David Morse
+1004,Glimmer Man, The (1996),John Gray,Steven Seagal| Keenen Ivory Wayans| Bob Gunton| Brian Cox
+1005,D3: The Mighty Ducks (1996),Children|Comedy,Robert Lieberman,Emilio Estevez| Jeffrey Nordling| David Selby| Heidi Kling
+1006,Chamber, The (1996),James Foley,Chris O'Donnell| Gene Hackman| Faye Dunaway| Robert Prosky
+1007,Apple Dumpling Gang, The (1975),Norman Tokar,Bill Bixby| Susan Clark| Don Knotts| Tim Conway
+1008,Davy Crockett, King of the Wild Frontier (1955),Norman Foster,Fess Parker| Buddy Ebsen| Basil Ruysdael| Hans Conried
+1009,Escape to Witch Mountain (1975),Adventure|Children|Fantasy,John Hough,Eddie Albert| Ray Milland| Donald Pleasence| Kim Richards
+1010,Love Bug, The (1969),Robert Stevenson,Dean Jones| Michele Lee| David Tomlinson| Buddy Hackett
+1011,Herbie Rides Again (1974),Children|Comedy|Fantasy|Romance,Robert Stevenson,Helen Hayes| Ken Berry| Stefanie Powers| John McIntire
+1012,Old Yeller (1957),Children|Drama,Robert Stevenson,Dorothy McGuire| Fess Parker| Jeff York| Chuck Connors
+1013,Parent Trap, The (1961),David Swift,Hayley Mills| Maureen O'Hara| Brian Keith| Charles Ruggles
+1014,Pollyanna (1960),Children|Comedy|Drama,David Swift,Hayley Mills| Jane Wyman| Richard Egan| Karl Malden
+1015,Homeward Bound: The Incredible Journey (1993),Adventure|Children|Drama,Duwayne Dunham,Don Alder| Ed Bernard| Kevin Chevalia| Anne Christianson
+1016,Shaggy Dog, The (1959),Charles Barton,Fred MacMurray| Jean Hagen| Tommy Kirk| Annette Funicello
+1017,Swiss Family Robinson (1960),Adventure|Children,Ken Annakin,John Mills| Dorothy McGuire| James MacArthur| Janet Munro
+1018,That Darn Cat! (1965),Children|Comedy|Mystery,Robert Stevenson,Hayley Mills| Dean Jones| Dorothy Provine| Roddy McDowall
+1019,20,000 Leagues Under the Sea (1954),Richard Fleischer,Kirk Douglas| James Mason| Paul Lukas| Peter Lorre
+1020,Cool Runnings (1993),Comedy,Jon Turteltaub,Leon| Doug E
+1021,Angels in the Outfield (1994),Children|Comedy,William Dear,Danny Glover| Brenda Fricker| Tony Danza| Christopher Lloyd
+1022,Cinderella (1950),Animation|Children|Fantasy|Musical|Romance,Clyde Geronimi| Wilfred Jackson| Hamilton Luske,Ilene Woods| Eleanor Audley| Verna Felton| Claire Du Brey
+1023,Winnie the Pooh and the Blustery Day (1968),Animation|Children|Musical,Wolfgang Reitherman| Ben Sharpsteen,Sebastian Cabot| Sterling Holloway| John Fiedler| Jon Walmsley
+1024,Three Caballeros, The (1945),Norman Ferguson| Clyde Geronimi| Jack Kinney| Bill Roberts| Harold Young,Aurora Miranda| Carmen Molina| Dora Luz| Sterling Holloway
+1025,Sword in the Stone, The (1963),Wolfgang Reitherman| Clyde Geronimi| David Hand,Sebastian Cabot| Karl Swenson| Rickie Sorensen| Junius Matthews
+1027,Robin Hood: Prince of Thieves (1991),Adventure|Drama,Kevin Reynolds,Kevin Costner| Morgan Freeman| Mary Elizabeth Mastrantonio| Christian Slater
+1028,Mary Poppins (1964),Children|Comedy|Fantasy|Musical,Robert Stevenson,Julie Andrews| Dick Van Dyke| David Tomlinson| Glynis Johns
+1029,Dumbo (1941),Animation|Children|Drama|Musical,Samuel Armstrong| Norman Ferguson| Wilfred Jackson| Jack Kinney| Bill Roberts| Ben Sharpsteen| John Elliotte,Herman Bing| Billy Bletcher| Edward Brophy| Hall Johnson Choir
+1030,Pete's Dragon (1977),Adventure|Animation|Children|Musical,Don Chaffey| Don Bluth,Helen Reddy| Jim Dale| Mickey Rooney| Red Buttons
+1031,Bedknobs and Broomsticks (1971),Adventure|Children|Musical,Robert Stevenson| Ward Kimball,Angela Lansbury| David Tomlinson| Roddy McDowall| Sam Jaffe
+1032,Alice in Wonderland (1951),Adventure|Animation|Children|Fantasy|Musical,Clyde Geronimi| Wilfred Jackson| Hamilton Luske| Jack Kinney,Kathryn Beaumont| Ed Wynn| Richard Haydn| Sterling Holloway
+1033,Fox and the Hound, The (1981),Ted Berman| Richard Rich| Art Stevens| David Hand| Wolfgang Reitherman,Mickey Rooney| Kurt Russell| Pearl Bailey| Jack Albertson
+1034,Freeway (1996),Comedy|Crime|Drama|Thriller,Matthew Bright,Kiefer Sutherland| Reese Witherspoon| Bokeem Woodbine| Paul Perri
+1035,Sound of Music, The (1965),Robert Wise,Julie Andrews| Christopher Plummer| Eleanor Parker| Richard Haydn
+1036,Die Hard (1988),Action|Crime|Thriller,John McTiernan,Bruce Willis| Bonnie Bedelia| Reginald VelJohnson| Paul Gleason
+1037,Lawnmower Man, The (1992),Brett Leonard,Jeff Fahey| Pierce Brosnan| Jenny Wright| Mark Bringelson
+1040,Secret Agent, The (1996),Christopher Hampton,Bob Hoskins| Patricia Arquette| Gérard Depardieu| Jim Broadbent
+1041,Secrets & Lies (1996),Drama,Mike Leigh,Timothy Spall| Phyllis Logan| Brenda Blethyn| Claire Rushbrook
+1042,That Thing You Do! (1996),Comedy|Drama,Tom Hanks,Tom Everett Scott| Liv Tyler| Johnathon Schaech| Steve Zahn
+1043,To Gillian on Her 37th Birthday (1996),Drama|Romance,Michael Pressman,Peter Gallagher| Michelle Pfeiffer| Claire Danes| Laurie Fortier
+1046,Beautiful Thing (1996),Drama|Romance,Hettie Macdonald,Linda Henry| Glen Berry| Scott Neal| Tameka Empson
+1047,Long Kiss Goodnight, The (1996),Renny Harlin,Geena Davis| Samuel L
+1049,Ghost and the Darkness, The (1996),Stephen Hopkins,Michael Douglas| Val Kilmer| Tom Wilkinson| John Kani
+1050,Looking for Richard (1996),Documentary|Drama,Al Pacino,Penelope Allen| Gordon MacDonald| Madison Arnold| Vincent Angell
+1051,Trees Lounge (1996),Drama,Steve Buscemi,Carol Kane| Mark Boone Junior| Steve Buscemi| Bronson Dudley
+1053,Normal Life (1996),Crime|Drama|Romance,John McNaughton,Ashley Judd| Luke Perry| Bruce A
+1054,Get on the Bus (1996),Drama,Spike Lee,Richard Belzer| De'aundre Bonds| Andre Braugher| Thomas Jefferson Byrd
+1055,Shadow Conspiracy (1997),Thriller,George P. Cosmatos,Charlie Sheen| Donald Sutherland| Linda Hamilton| Stephen Lang
+1056,Jude (1996),Drama,Michael Winterbottom,Christopher Eccleston| Kate Winslet| Liam Cunningham| Rachel Griffiths
+1057,Everyone Says I Love You (1996),Comedy|Musical|Romance,Woody Allen,Edward Norton| Drew Barrymore| Diva Gray| Ami Almendral
+1059,William Shakespeare's Romeo + Juliet (1996),Drama|Romance,Baz Luhrmann,Leonardo DiCaprio| Claire Danes| John Leguizamo| Harold Perrineau
+1060,Swingers (1996),Comedy|Drama,Doug Liman,Jon Favreau| Vince Vaughn| Ron Livingston| Patrick Van Horn
+1061,Sleepers (1996),Thriller,Barry Levinson,Kevin Bacon| Billy Crudup| Robert De Niro| Ron Eldard
+1064,Aladdin and the King of Thieves (1996),Animation|Children|Comedy|Fantasy|Musical|Romance,Tad Stones,Val Bettin| Jim Cummings| Gilbert Gottfried| Linda Larkin
+1066,Shall We Dance (1937),Comedy|Musical|Romance,Mark Sandrich,Fred Astaire| Ginger Rogers| Edward Everett Horton| Eric Blore
+1068,Crossfire (1947),Crime|Film-Noir,Edward Dmytryk,Robert Young| Robert Mitchum| Robert Ryan| Gloria Grahame
+1073,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical,Mel Stuart,Gene Wilder| Jack Albertson| Peter Ostrum| Roy Kinnear
+1076,Innocents, The (1961),Jack Clayton,Deborah Kerr| Peter Wyngarde| Megs Jenkins| Michael Redgrave
+1077,Sleeper (1973),Comedy|Sci-Fi,Woody Allen,Woody Allen| Diane Keaton| John Beck| Mary Gregory
+1078,Bananas (1971),Comedy|War,Woody Allen,Woody Allen| Louise Lasser| Carlos Montalbán| Nati Abascal
+1079,Fish Called Wanda, A (1988),Charles Crichton| John Cleese,John Cleese| Jamie Lee Curtis| Kevin Kline| Michael Palin
+1080,Monty Python's Life of Brian (1979),Comedy,Terry Jones,Graham Chapman| John Cleese| Terry Gilliam| Eric Idle
+1081,Victor/Victoria (1982),Comedy|Musical|Romance,Blake Edwards,Julie Andrews| James Garner| Robert Preston| Lesley Ann Warren
+1082,Candidate, The (1972),Michael Ritchie,Robert Redford| Peter Boyle| Melvyn Douglas| Don Porter
+1083,Great Race, The (1965),Blake Edwards,Jack Lemmon| Tony Curtis| Natalie Wood| Peter Falk
+1084,Bonnie and Clyde (1967),Crime|Drama,Arthur Penn,Warren Beatty| Faye Dunaway| Michael J
+1085,Old Man and the Sea, The (1958),John Sturges| Fred Zinnemann,Spencer Tracy| Felipe Pazos| Harry Bellaver| Richard Alameda
+1086,Dial M for Murder (1954),Crime|Mystery|Thriller,Alfred Hitchcock,Ray Milland| Grace Kelly| Robert Cummings| John Williams
+1088,Dirty Dancing (1987),Drama|Musical|Romance,Emile Ardolino,Jennifer Grey| Patrick Swayze| Jerry Orbach| Cynthia Rhodes
+1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,Quentin Tarantino,Harvey Keitel| Tim Roth| Michael Madsen| Chris Penn
+1090,Platoon (1986),Drama|War,Oliver Stone,Keith David| Forest Whitaker| Francesco Quinn| Kevin Dillon
+1091,Weekend at Bernie's (1989),Comedy,Ted Kotcheff,Andrew McCarthy| Jonathan Silverman| Catherine Mary Stewart| Terry Kiser
+1092,Basic Instinct (1992),Crime|Mystery|Thriller,Paul Verhoeven,Michael Douglas| Sharon Stone| George Dzundza| Jeanne Tripplehorn
+1093,Doors, The (1991),Oliver Stone,Val Kilmer| Meg Ryan| Kyle MacLachlan| Frank Whaley
+1094,Crying Game, The (1992),Neil Jordan,Forest Whitaker| Miranda Richardson| Stephen Rea| Adrian Dunbar
+1095,Glengarry Glen Ross (1992),Drama,James Foley,Al Pacino| Jack Lemmon| Alec Baldwin| Alan Arkin
+1096,Sophie's Choice (1982),Drama,Alan J. Pakula,Meryl Streep| Kevin Kline| Peter MacNicol| Rita Karin
+1097,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi,Steven Spielberg,Dee Wallace| Henry Thomas| Peter Coyote| Robert MacNaughton
+1099,Christmas Carol, A (1938),Edwin L. Marin,Reginald Owen| Gene Lockhart| Kathleen Lockhart| Terry Kilburn
+1100,Days of Thunder (1990),Action|Drama|Romance,Tony Scott,Tom Cruise| Robert Duvall| Nicole Kidman| Randy Quaid
+1101,Top Gun (1986),Action|Romance,Tony Scott,Tom Cruise| Kelly McGillis| Val Kilmer| Anthony Edwards
+1103,Rebel Without a Cause (1955),Drama,Nicholas Ray,James Dean| Natalie Wood| Sal Mineo| Jim Backus
+1104,Streetcar Named Desire, A (1951),Elia Kazan,Vivien Leigh| Marlon Brando| Kim Hunter| Karl Malden
+1105,Children of the Corn IV: The Gathering (1996),Horror,Greg Spence,Naomi Watts| Jamie Renée Smith| Karen Black| Mark Salling
+1107,Loser (1991),Comedy,Erik Burke,Brendan Kelly| John Salemmo| Nadine Miral| Bernice DeLeo
+1111,Microcosmos (Microcosmos: Le peuple de l'herbe) (1996),Documentary,Claude Nuridsany| Marie Pérennou,Jacques Perrin| Kristin Scott Thomas
+1112,Palookaville (1996),Action|Comedy|Drama,Alan Taylor,William Forsythe| Vincent Gallo| Adam Trese| Gareth Williams
+1114,Funeral, The (1996),Abel Ferrara,Christopher Walken| Chris Penn| Annabella Sciorra| Isabella Rossellini
+1116,Single Girl, A (Fille seule,Benoît Jacquot,Virginie Ledoyen| Benoît Magimel| Dominique Valadié| Michel Bompoil
+1117,Eighth Day, The (Huitième jour,Jaco Van Dormael,Daniel Auteuil| Pascal Duquenne| Miou-Miou| Henri Garcin
+1119,Drunks (1995),Drama,Peter Cohn,Richard Lewis| Liza Harris| Liam Ahern| George Martin
+1120,People vs. Larry Flynt, The (1996),Milos Forman,Woody Harrelson| Courtney Love| Edward Norton| Brett Harrelson
+1121,Glory Daze (1995),Drama,Rich Wilkes,Ben Affleck| Sam Rockwell| Megan Ward| French Stewart
+1123,Perfect Candidate, A (1996),R.J. Cutler| David Van Taylor,Don Baker| Mark Goodin| Mark Merritt| Peter Baker
+1124,On Golden Pond (1981),Drama,Mark Rydell,Katharine Hepburn| Henry Fonda| Jane Fonda| Doug McKeon
+1125,Return of the Pink Panther, The (1975),Blake Edwards,Peter Sellers| Christopher Plummer| Catherine Schell| Herbert Lom
+1126,Drop Dead Fred (1991),Comedy|Fantasy,Ate de Jong,Phoebe Cates| Rik Mayall| Marsha Mason| Tim Matheson
+1127,Abyss, The (1989),James Cameron,Ed Harris| Mary Elizabeth Mastrantonio| Michael Biehn| Leo Burmester
+1128,Fog, The (1980),John Carpenter,Adrienne Barbeau| Jamie Lee Curtis| Janet Leigh| John Houseman
+1129,Escape from New York (1981),Action|Adventure|Sci-Fi|Thriller,John Carpenter,Kurt Russell| Lee Van Cleef| Ernest Borgnine| Donald Pleasence
+1130,Howling, The (1980),Joe Dante,Dee Wallace| Patrick Macnee| Dennis Dugan| Christopher Stone
+1131,Jean de Florette (1986),Drama|Mystery,Claude Berri,Yves Montand| Gérard Depardieu| Daniel Auteuil| Elisabeth Depardieu
+1132,Manon of the Spring (Manon des sources) (1986),Drama,Claude Berri,Yves Montand| Daniel Auteuil| Emmanuelle Béart| Hippolyte Girardot
+1135,Private Benjamin (1980),Comedy,Howard Zieff,Goldie Hawn| Eileen Brennan| Armand Assante| Robert Webber
+1136,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,Terry Gilliam| Terry Jones,Graham Chapman| John Cleese| Eric Idle| Terry Gilliam
+1137,Hustler White (1996),Romance,Rick Castro| Bruce La Bruce,Tony Ward| Bruce La Bruce| Kevin P
+1140,Entertaining Angels: The Dorothy Day Story (1996),Drama,Michael Ray Rhodes,Moira Kelly| Martin Sheen| Lenny von Dohlen| Melinda Dillon
+1144,Line King: The Al Hirschfeld Story, The (1996),Susan Warms Dryfoos,Julie Andrews| Lauren Bacall| Carol Channing| Cy Coleman
+1147,When We Were Kings (1996),Documentary,Leon Gast,Muhammad Ali| George Foreman| Don King| James Brown
+1148,Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime,Nick Park,Peter Sallis
+1150,Return of Martin Guerre, The (Retour de Martin Guerre,Daniel Vigne,Gérard Depardieu| Nathalie Baye| Maurice Barrier| Bernard-Pierre Donnadieu
+1151,Lesson Faust (1994),Animation|Comedy|Drama|Fantasy,Jan Svankmajer,Petr Cepek| Jan Kraus| Vladimír Kudla| Antonin Zacpal
+1156,Children Are Watching Us, The (Bambini ci guardano,Vittorio De Sica,Emilio Cigoli| Luciano De Ambrosis| Isa Pola| Adriano Rimoldi
+1161,Tin Drum, The (Blechtrommel,Volker Schlöndorff,Mario Adorf| Angela Winkler| David Bennent| Katharina Thalbach
+1162,Ruling Class, The (1972),Peter Medak,Hugh Owens| Harry Andrews| Arthur Lowe| William Mervyn
+1163,Mina Tannenbaum (1994),Drama,Martine Dugowson,Romane Bohringer| Elsa Zylberstein| Florence Thomassin| Jean-Philippe Écoffey
+1167,Dear God (1996),Comedy,Garry Marshall,Greg Kinnear| Laurie Metcalf| Maria Pitillo| Tim Conway
+1170,Best of the Best 3: No Turning Back (1995),Action,Phillip Rhee,Phillip Rhee| Christopher McDonald| Gina Gershon| Mark Rolston
+1171,Bob Roberts (1992),Comedy,Tim Robbins,Tim Robbins| Giancarlo Esposito| Alan Rickman| Ray Wise
+1172,Cinema Paradiso (Nuovo cinema Paradiso) (1989),Drama,Giuseppe Tornatore,Antonella Attili| Enzo Cannavale| Isa Danieli| Leo Gullotta
+1173,Cook the Thief His Wife & Her Lover, The (1989),Peter Greenaway,Richard Bohringer| Michael Gambon| Helen Mirren| Alan Howard
+1175,Delicatessen (1991),Comedy|Drama|Romance,Marc Caro| Jean-Pierre Jeunet,Pascal Benezech| Dominique Pinon| Marie-Laure Dougnac| Jean-Claude Dreyfus
+1176,Double Life of Veronique, The (Double Vie de Véronique,Krzysztof Kieslowski,Irène Jacob| Halina Gryglaszewska| Kalina Jedrusik| Aleksander Bardini
+1177,Enchanted April (1992),Drama|Romance,Mike Newell,Josie Lawrence| Miranda Richardson| Alfred Molina| Neville Phillips
+1178,Paths of Glory (1957),Drama|War,Stanley Kubrick,Kirk Douglas| Ralph Meeker| Adolphe Menjou| George Macready
+1179,Grifters, The (1990),Stephen Frears,Anjelica Huston| John Cusack| Annette Bening| Jan Munroe
+1180,Hear My Song (1991),Comedy,Peter Chelsom,Brian Flanagan| Constance Cowley| Marie Mullen| Phil Kelly
+1183,English Patient, The (1996),Anthony Minghella,Ralph Fiennes| Juliette Binoche| Willem Dafoe| Kristin Scott Thomas
+1184,Mediterraneo (1991),Comedy|Drama,Gabriele Salvatores,Diego Abatantuono| Claudio Bigagli| Giuseppe Cederna| Claudio Bisio
+1185,My Left Foot (1989),Drama,Jim Sheridan,Daniel Day-Lewis| Brenda Fricker| Alison Whelan| Kirsten Sheridan
+1186,Sex, Lies,Steven Soderbergh,James Spader| Andie MacDowell| Peter Gallagher| Laura San Giacomo
+1187,Passion Fish (1992),Drama,John Sayles,Mary McDonnell| Angela Bassett| Lenore Banks| William Mahoney
+1188,Strictly Ballroom (1992),Comedy|Romance,Baz Luhrmann,Paul Mercurio| Tara Morice| Bill Hunter| Pat Thomson
+1189,Thin Blue Line, The (1988),Errol Morris,Randall Adams| David Harris| Gus Rose| Jackie Johnson
+1190,Tie Me Up! Tie Me Down! (¡Átame!) (1990),Crime|Drama|Romance,Pedro Almodóvar,Victoria Abril| Antonio Banderas| Loles León| María Barranco
+1191,Madonna: Truth or Dare (1991),Documentary|Musical,Alek Keshishian,Madonna| Donna DeLory| Niki Haris| Luis Camacho
+1192,Paris Is Burning (1990),Documentary,Jennie Livingston,Brooke Xtravaganza| André Christian| Dorian Corey| Paris Duprée
+1193,One Flew Over the Cuckoo's Nest (1975),Drama,Milos Forman,Michael Berryman| Peter Brocco| Dean R
+1194,Cheech and Chong's Up in Smoke (1978),Comedy,Lou Adler| Tommy Chong,Cheech Marin| Tommy Chong| Strother Martin| Edie Adams
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,Irvin Kershner,Mark Hamill| Harrison Ford| Carrie Fisher| Billy Dee Williams
+1197,Princess Bride, The (1987),Rob Reiner,Cary Elwes| Mandy Patinkin| Chris Sarandon| Christopher Guest
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,Steven Spielberg,Harrison Ford| Karen Allen| Paul Freeman| Ronald Lacey
+1199,Brazil (1985),Fantasy|Sci-Fi,Terry Gilliam,Jonathan Pryce| Robert De Niro| Katherine Helmond| Ian Holm
+1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi,James Cameron,Sigourney Weaver| Carrie Henn| Michael Biehn| Paul Reiser
+1201,Good, the Bad and the Ugly,Sergio Leone,Eli Wallach| Clint Eastwood| Lee Van Cleef| Aldo Giuffrè
+1202,Withnail & I (1987),Comedy,Bruce Robinson,Richard E
+1203,12 Angry Men (1957),Drama,Sidney Lumet,Martin Balsam| John Fiedler| Lee J
+1204,Lawrence of Arabia (1962),Adventure|Drama|War,David Lean,Peter O'Toole| Alec Guinness| Anthony Quinn| Jack Hawkins
+1206,Clockwork Orange, A (1971),Stanley Kubrick,Malcolm McDowell| Patrick Magee| Michael Bates| Warren Clarke
+1207,To Kill a Mockingbird (1962),Drama,Robert Mulligan,Gregory Peck| John Megna| Frank Overton| Rosemary Murphy
+1208,Apocalypse Now (1979),Action|Drama|War,Francis Ford Coppola,Marlon Brando| Martin Sheen| Robert Duvall| Frederic Forrest
+1209,Once Upon a Time in the West (C'era una volta il West) (1968),Action|Drama|Western,Sergio Leone,Claudia Cardinale| Henry Fonda| Jason Robards| Charles Bronson
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,Richard Marquand,Mark Hamill| Harrison Ford| Carrie Fisher| Billy Dee Williams
+1211,Wings of Desire (Himmel über Berlin, Der) (1987),Wim Wenders,Bruno Ganz| Solveig Dommartin| Otto Sander| Curt Bois
+1212,Third Man, The (1949),Carol Reed,Joseph Cotten| Alida Valli| Orson Welles| Trevor Howard
+1213,Goodfellas (1990),Crime|Drama,Martin Scorsese,Robert De Niro| Ray Liotta| Joe Pesci| Lorraine Bracco
+1214,Alien (1979),Horror|Sci-Fi,Ridley Scott,Tom Skerritt| Sigourney Weaver| Veronica Cartwright| Harry Dean Stanton
+1215,Army of Darkness (1993),Action|Adventure|Comedy|Fantasy|Horror,Sam Raimi,Bruce Campbell| Embeth Davidtz| Marcus Gilbert| Ian Abercrombie
+1216,Big Blue, The (Grand bleu,Luc Besson,Rosanna Arquette| Jean-Marc Barr| Jean Reno| Paul Shenar
+1217,Ran (1985),Drama|War,Akira Kurosawa,Tatsuya Nakadai| Akira Terao| Jinpachi Nezu| Daisuke Ryû
+1218,Killer, The (Die xue shuang xiong) (1989),John Woo,Chow Yun-Fat| Danny Lee| Sally Yeh| Kong Chu
+1219,Psycho (1960),Crime|Horror,Alfred Hitchcock,Anthony Perkins| Vera Miles| John Gavin| Janet Leigh
+1220,Blues Brothers, The (1980),John Landis,Tom Erhart| Gerald Walling| John Belushi| Walter Levine
+1221,Godfather: Part II, The (1974),Francis Ford Coppola,Al Pacino| Robert Duvall| Diane Keaton| Robert De Niro
+1222,Full Metal Jacket (1987),Drama|War,Stanley Kubrick,Matthew Modine| Adam Baldwin| Vincent D'Onofrio| R
+1223,Grand Day Out with Wallace and Gromit, A (1989),Nick Park,Peter Sallis
+1224,Henry V (1989),Action|Drama|Romance|War,Kenneth Branagh,Derek Jacobi| Kenneth Branagh| Simon Shepherd| James Larkin
+1225,Amadeus (1984),Drama,Milos Forman,F
+1226,Quiet Man, The (1952),John Ford,John Wayne| Maureen O'Hara| Barry Fitzgerald| Ward Bond
+1227,Once Upon a Time in America (1984),Crime|Drama,Sergio Leone,Robert De Niro| James Woods| Elizabeth McGovern| Treat Williams
+1228,Raging Bull (1980),Drama,Martin Scorsese,Robert De Niro| Cathy Moriarty| Joe Pesci| Frank Vincent
+1230,Annie Hall (1977),Comedy|Romance,Woody Allen,Woody Allen| Diane Keaton| Tony Roberts| Carol Kane
+1231,Right Stuff, The (1983),Philip Kaufman,Sam Shepard| Scott Glenn| Ed Harris| Dennis Quaid
+1232,Stalker (1979),Drama|Mystery|Sci-Fi,Andrei Tarkovsky,Alisa Freyndlikh| Aleksandr Kaydanovskiy| Anatoliy Solonitsyn| Nikolay Grinko
+1233,Boot, Das (Boat,Wolfgang Petersen,Jürgen Prochnow| Herbert Grönemeyer| Klaus Wennemann| Hubertus Bengsch
+1234,Sting, The (1973),George Roy Hill,Paul Newman| Robert Redford| Robert Shaw| Charles Durning
+1235,Harold and Maude (1971),Comedy|Drama|Romance,Hal Ashby,Ruth Gordon| Bud Cort| Vivian Pickles| Cyril Cusack
+1236,Trust (1990),Comedy|Drama|Romance,Hal Hartley,Adrienne Shelly| Martin Donovan| Rebecca Nelson| John MacKay
+1237,Seventh Seal, The (Sjunde inseglet,Ingmar Bergman,Gunnar Björnstrand| Bengt Ekerot| Nils Poppe| Max von Sydow
+1238,Local Hero (1983),Comedy,Bill Forsyth,Burt Lancaster| Peter Riegert| Fulton Mackay| Denis Lawson
+1240,Terminator, The (1984),James Cameron,Arnold Schwarzenegger| Michael Biehn| Linda Hamilton| Paul Winfield
+1241,Dead Alive (Braindead) (1992),Comedy|Fantasy|Horror,Peter Jackson,Timothy Balme| Diana Peñalver| Elizabeth Moody| Ian Watkin
+1242,Glory (1989),Drama|War,Edward Zwick,Matthew Broderick| Denzel Washington| Cary Elwes| Morgan Freeman
+1243,Rosencrantz and Guildenstern Are Dead (1990),Comedy|Drama,Tom Stoppard,Gary Oldman| Tim Roth| Richard Dreyfuss| Livio Badurina
+1244,Manhattan (1979),Comedy|Drama|Romance,Woody Allen,Woody Allen| Diane Keaton| Michael Murphy| Mariel Hemingway
+1245,Miller's Crossing (1990),Crime|Drama|Film-Noir|Thriller,Joel Coen| Ethan Coen,Gabriel Byrne| Marcia Gay Harden| John Turturro| Jon Polito
+1246,Dead Poets Society (1989),Drama,Peter Weir,Robin Williams| Robert Sean Leonard| Ethan Hawke| Josh Charles
+1247,Graduate, The (1967),Mike Nichols,Anne Bancroft| Dustin Hoffman| Katharine Ross| William Daniels
+1248,Touch of Evil (1958),Crime|Film-Noir|Thriller,Orson Welles,Charlton Heston| Janet Leigh| Orson Welles| Joseph Calleia
+1249,Femme Nikita, La (Nikita) (1990),Luc Besson,Anne Parillaud| Marc Duret| Patrick Fontana| Alain Lathière
+1250,Bridge on the River Kwai, The (1957),David Lean,William Holden| Alec Guinness| Jack Hawkins| Sessue Hayakawa
+1251,8 1/2 (8½) (1963),Drama|Fantasy,Federico Fellini,Marcello Mastroianni| Claudia Cardinale| Anouk Aimée| Sandra Milo
+1252,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller,Roman Polanski,Jack Nicholson| Faye Dunaway| John Huston| Perry Lopez
+1253,Day the Earth Stood Still, The (1951),Robert Wise,Michael Rennie| Patricia Neal| Hugh Marlowe| Sam Jaffe
+1254,Treasure of the Sierra Madre, The (1948),John Huston,Humphrey Bogart| Walter Huston| Tim Holt| Bruce Bennett
+1255,Bad Taste (1987),Comedy|Horror|Sci-Fi,Peter Jackson,Terry Potter| Pete O'Herne| Craig Smith| Mike Minett
+1256,Duck Soup (1933),Comedy|Musical|War,Leo McCarey,The Marx Brothers| Groucho Marx| Harpo Marx| Chico Marx
+1257,Better Off Dead... (1985),Comedy|Romance,Savage Steve Holland,John Cusack| David Ogden Stiers| Kim Darby| Demian Slade
+1258,Shining, The (1980),Stanley Kubrick,Jack Nicholson| Shelley Duvall| Danny Lloyd| Scatman Crothers
+1259,Stand by Me (1986),Adventure|Drama,Rob Reiner,Wil Wheaton| River Phoenix| Corey Feldman| Jerry O'Connell
+1260,M (1931),Crime|Film-Noir|Thriller,Fritz Lang,Peter Lorre| Ellen Widmann| Inge Landgut| Otto Wernicke
+1261,Evil Dead II (Dead by Dawn) (1987),Action|Comedy|Fantasy|Horror,Sam Raimi,Bruce Campbell| Sarah Berry| Dan Hicks| Kassie Wesley DePaiva
+1262,Great Escape, The (1963),John Sturges,Steve McQueen| James Garner| Richard Attenborough| James Donald
+1263,Deer Hunter, The (1978),Michael Cimino,Robert De Niro| John Cazale| John Savage| Christopher Walken
+1264,Diva (1981),Action|Drama|Mystery|Romance|Thriller,Jean-Jacques Beineix,Wilhelmenia Fernandez| Frédéric Andréi| Richard Bohringer| Thuy An Luu
+1265,Groundhog Day (1993),Comedy|Fantasy|Romance,Harold Ramis,Bill Murray| Andie MacDowell| Chris Elliott| Stephen Tobolowsky
+1266,Unforgiven (1992),Drama|Western,Clint Eastwood,Clint Eastwood| Gene Hackman| Morgan Freeman| Richard Harris
+1267,Manchurian Candidate, The (1962),John Frankenheimer,Frank Sinatra| Laurence Harvey| Janet Leigh| Angela Lansbury
+1268,Pump Up the Volume (1990),Comedy|Drama,Allan Moyle,Anthony Lucero| Andy Romano| Keith Stuart Thayer| Cheryl Pollak
+1269,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller,Frank Capra,Cary Grant| Priscilla Lane| Raymond Massey| Jack Carson
+1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,Robert Zemeckis,Michael J
+1271,Fried Green Tomatoes (1991),Comedy|Crime|Drama,Jon Avnet,Kathy Bates| Mary Stuart Masterson| Mary-Louise Parker| Jessica Tandy
+1272,Patton (1970),Drama|War,Franklin J. Schaffner,George C
+1273,Down by Law (1986),Comedy|Drama|Film-Noir,Jim Jarmusch,Tom Waits| John Lurie| Roberto Benigni| Nicoletta Braschi
+1274,Akira (1988),Action|Adventure|Animation|Sci-Fi,Katsuhiro Ôtomo,Mitsuo Iwata| Nozomu Sasaki| Mami Koyama| Tesshô Genda
+1275,Highlander (1986),Action|Adventure|Fantasy,Russell Mulcahy,Christopher Lambert| Roxanne Hart| Clancy Brown| Sean Connery
+1276,Cool Hand Luke (1967),Drama,Stuart Rosenberg,Paul Newman| George Kennedy| J
+1277,Cyrano de Bergerac (1990),Comedy|Drama|Romance,Jean-Paul Rappeneau,Gérard Depardieu| Anne Brochet| Vincent Perez| Jacques Weber
+1278,Young Frankenstein (1974),Comedy|Fantasy,Mel Brooks,Gene Wilder| Peter Boyle| Marty Feldman| Madeline Kahn
+1279,Night on Earth (1991),Comedy|Drama,Jim Jarmusch,Gena Rowlands| Winona Ryder| Lisanne Falk| Alan Randolph Scott
+1280,Raise the Red Lantern (Da hong deng long gao gao gua) (1991),Drama,Yimou Zhang,Gong Li| Saifei He| Jingwu Ma| Cuifen Cao
+1281,Great Dictator, The (1940),Charles Chaplin,Charles Chaplin| Jack Oakie| Reginald Gardiner| Henry Daniell
+1282,Fantasia (1940),Animation|Children|Fantasy|Musical,James Algar| Samuel Armstrong| Ford Beebe Jr.| Norman Ferguson| David Hand| Jim Handley| T. Hee| Wilfred Jackson| Hamilton Luske| Bill Roberts| Paul Satterfield| Ben Sharpsteen,Deems Taylor| Leopold Stokowski| The Philadelphia Orchestra| Corey Burton
+1283,High Noon (1952),Drama|Western,Fred Zinnemann,Gary Cooper| Thomas Mitchell| Lloyd Bridges| Katy Jurado
+1284,Big Sleep, The (1946),Howard Hawks,Humphrey Bogart| Lauren Bacall| John Ridgely| Martha Vickers
+1285,Heathers (1989),Comedy,Michael Lehmann,Winona Ryder| Christian Slater| Shannen Doherty| Lisanne Falk
+1286,Somewhere in Time (1980),Drama|Romance,Jeannot Szwarc,Christopher Reeve| Jane Seymour| Christopher Plummer| Teresa Wright
+1287,Ben-Hur (1959),Action|Adventure|Drama,William Wyler,Charlton Heston| Jack Hawkins| Haya Harareet| Stephen Boyd
+1288,This Is Spinal Tap (1984),Comedy,Rob Reiner,Rob Reiner| Kimberly Stringer| Chazz Dominguez| Shari Hall
+1289,Koyaanisqatsi (a.k.a. Koyaanisqatsi: Life Out of Balance) (1983),Documentary,Godfrey Reggio,Edward Asner| Pat Benatar| Jerry Brown| Johnny Carson
+1290,Some Kind of Wonderful (1987),Drama|Romance,Howard Deutch,Eric Stoltz| Mary Stuart Masterson| Lea Thompson| Craig Sheffer
+1291,Indiana Jones and the Last Crusade (1989),Action|Adventure,Steven Spielberg,Harrison Ford| Sean Connery| Denholm Elliott| Alison Doody
+1292,Being There (1979),Comedy|Drama,Hal Ashby,Peter Sellers| Shirley MacLaine| Melvyn Douglas| Jack Warden
+1293,Gandhi (1982),Drama,Richard Attenborough,Ben Kingsley| Rohini Hattangadi| Roshan Seth| Candice Bergen
+1295,Unbearable Lightness of Being, The (1988),Philip Kaufman,Daniel Day-Lewis| Juliette Binoche| Lena Olin| Derek de Lint
+1296,Room with a View, A (1986),James Ivory,Maggie Smith| Helena Bonham Carter| Denholm Elliott| Julian Sands
+1297,Real Genius (1985),Comedy,Martha Coolidge,Stacy Peralta| Daniel Ades| Andres Aybar| Louis Giambalvo
+1298,Pink Floyd: The Wall (1982),Drama|Musical,Alan Parker,Bob Geldof| Christine Hargreaves| James Laurenson| Eleanor David
+1299,Killing Fields, The (1984),Roland Joffé,Sam Waterston| Haing S
+1300,My Life as a Dog (Mitt liv som hund) (1985),Comedy|Drama,Lasse Hallström,Anton Glanzelius| Tomas von Brömssen| Anki Lidén| Melinda Kinnaman
+1301,Forbidden Planet (1956),Drama|Sci-Fi,Fred M. Wilcox,Walter Pidgeon| Anne Francis| Leslie Nielsen| Warren Stevens

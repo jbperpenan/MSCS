@@ -20,8 +20,8 @@ public class SpringBootApp {
         SpringApplication.run(SpringBootApp.class, args);
     }
 
-    @Bean(initMethod = "start", destroyMethod = "stop")
+/*    @Bean(initMethod = "start", destroyMethod = "stop")
     public Server inMemoryH2DatabaseServer() throws SQLException {
         return Server.createTcpServer("-tcp", "-tcpAllowOthers", "-tcpPort", "9091");
-    }
+    }*/
 }
